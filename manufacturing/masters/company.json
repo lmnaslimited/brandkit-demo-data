@@ -1,0 +1,12 @@
+[
+    {
+        "doctype": "Company",
+        "company_name": "Demo Manufacturing Pvt Ltd",
+        "abbr": "DMPL",
+        "default_currency": "USD",
+        "country": "United States",
+        "create_chart_of_accounts_based_on": "Standard Template",
+        "chart_of_accounts": "Standard",
+        "default_holiday_list": "US Holidays"
+    }
+]

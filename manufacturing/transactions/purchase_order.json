@@ -1,0 +1,18 @@
+[
+    {
+        "doctype": "Purchase Order",
+        "supplier": "Steel Suppliers Ltd",
+        "company": "Demo Manufacturing Pvt Ltd",
+        "schedule_date": "2026-12-25",
+        "items": [
+            {
+                "doctype": "Purchase Order Item",
+                "item_code": "RM-STEEL-001",
+                "qty": 100,
+                "uom": "Nos",
+                "warehouse": "Main Warehouse - DMPL",
+                "rate": 20
+            }
+        ]
+    }
+]

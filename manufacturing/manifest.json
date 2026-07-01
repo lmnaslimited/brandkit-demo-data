@@ -1,0 +1,17 @@
+{
+    "name": "Manufacturing",
+    "version": 1,
+    "description": "Manufacturing demo dataset for ERPNext",
+
+    "masters": [
+        "company.json",
+        "warehouse.json",
+        "customer.json",
+        "item.json"
+    ],
+
+    "transactions": [
+        "sales_order.json",
+        "purchase_order.json"
+    ]
+}

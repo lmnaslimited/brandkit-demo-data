@@ -1,0 +1,18 @@
+[
+    {
+        "doctype": "Sales Order",
+        "customer": "ABC Industries",
+        "company": "Demo Manufacturing Pvt Ltd",
+        "delivery_date": "2026-12-31",
+        "items": [
+            {
+                "doctype": "Sales Order Item",
+                "item_code": "FG-TABLE-001",
+                "qty": 10,
+                "uom": "Nos",
+                "warehouse": "Finished Goods Warehouse - DMPL",
+                "rate": 150
+            }
+        ]
+    }
+]

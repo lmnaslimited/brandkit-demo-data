@@ -1,0 +1,18 @@
+[
+    {
+        "doctype": "Item",
+        "item_code": "RM-STEEL-001",
+        "item_name": "Steel Sheet",
+        "item_group": "Raw Material",
+        "stock_uom": "Nos",
+        "is_stock_item": 1
+    },
+    {
+        "doctype": "Item",
+        "item_code": "FG-TABLE-001",
+        "item_name": "Wooden Table",
+        "item_group": "Finished Goods",
+        "stock_uom": "Nos",
+        "is_stock_item": 1
+    }
+]

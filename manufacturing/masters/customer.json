@@ -1,0 +1,14 @@
+[
+    {
+        "doctype": "Customer",
+        "customer_name": "ABC Industries",
+        "customer_group": "Commercial",
+        "territory": "All Territories"
+    },
+    {
+        "doctype": "Customer",
+        "customer_name": "Global Manufacturing",
+        "customer_group": "Commercial",
+        "territory": "All Territories"
+    }
+]
