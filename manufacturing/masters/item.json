@@ -11,7 +11,7 @@
         "doctype": "Item",
         "item_code": "FG-TABLE-001",
         "item_name": "Wooden Table",
-        "item_group": "Finished Goods",
+        "item_group": "Products",
         "stock_uom": "Nos",
         "is_stock_item": 1
     }

@@ -2,11 +2,13 @@
     {
         "doctype": "Warehouse",
         "warehouse_name": "Main Warehouse",
-        "company": "Demo Manufacturing Pvt Ltd"
+        "company": "Demo Manufacturing Pvt Ltd",
+        "parent_warehouse": "All Warehouses - DMPL"
     },
     {
         "doctype": "Warehouse",
         "warehouse_name": "Finished Goods Warehouse",
-        "company": "Demo Manufacturing Pvt Ltd"
+        "company": "Demo Manufacturing Pvt Ltd",
+        "parent_warehouse": "All Warehouses - DMPL"
     }
 ]

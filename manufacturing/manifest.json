@@ -7,7 +7,8 @@
         "company.json",
         "warehouse.json",
         "customer.json",
-        "item.json"
+        "item.json",
+        "supplier.json"
     ],
 
     "transactions": [
