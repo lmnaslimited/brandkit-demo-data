@@ -1,8 +1,9 @@
 [
     {
         "doctype": "Supplier",
-        "customer_name": "Steel Suppliers Ltd",
-        "customer_group": "Raw Material",
+        "supplier_type": "Company",
+        "supplier_name": "Steel Suppliers Ltd",
+        "Supplier_group": "Raw Material",
         "territory": "All Territories"
     }
 ]

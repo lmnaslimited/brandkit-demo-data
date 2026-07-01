@@ -1,18 +1,38 @@
 {
     "name": "Manufacturing",
     "version": 1,
-    "description": "Manufacturing demo dataset for ERPNext",
 
     "masters": [
-        "company.json",
-        "warehouse.json",
-        "customer.json",
-        "item.json",
-        "supplier.json"
+        {
+            "file": "company.json",
+            "doctype": "Company"
+        },
+        {
+            "file": "warehouse.json",
+            "doctype": "Warehouse"
+        },
+        {
+            "file": "supplier.json",
+            "doctype": "Supplier"
+        },
+        {
+            "file": "customer.json",
+            "doctype": "Customer"
+        },
+        {
+            "file": "item.json",
+            "doctype": "Item"
+        }
     ],
 
     "transactions": [
-        "sales_order.json",
-        "purchase_order.json"
+        {
+            "file": "purchase_order.json",
+            "doctype": "Purchase Order"
+        },
+        {
+            "file": "sales_order.json",
+            "doctype": "Sales Order"
+        }
     ]
 }
