@@ -4,7 +4,7 @@
         "stock_entry_type": "Manufacture",
         "company": "SteelCraft Fabricators LLC",
         "posting_date": "2026-01-25",
-        "work_order": "WO-MFG-0001",
+        "work_order": "MFG-WO-2026-00001",
         "from_bom": 1,
         "fg_completed_qty": 5,
         "items": [
@@ -22,7 +22,7 @@
         "stock_entry_type": "Manufacture",
         "company": "SteelCraft Fabricators LLC",
         "posting_date": "2026-01-26",
-        "work_order": "WO-MFG-0002",
+        "work_order": "MFG-WO-2026-00002",
         "from_bom": 1,
         "fg_completed_qty": 4,
         "items": [
@@ -40,7 +40,7 @@
         "stock_entry_type": "Manufacture",
         "company": "SteelCraft Fabricators LLC",
         "posting_date": "2026-01-27",
-        "work_order": "WO-MFG-0003",
+        "work_order": "MFG-WO-2026-00003",
         "from_bom": 1,
         "fg_completed_qty": 3,
         "items": [

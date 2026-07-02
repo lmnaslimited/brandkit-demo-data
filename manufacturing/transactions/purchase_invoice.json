@@ -13,7 +13,7 @@
                 "qty": 5000,
                 "warehouse": "Raw Material Warehouse - SCF",
                 "rate": 1.20,
-                "purchase_receipt": "PUR-REC-00001",
+                "purchase_receipt": "MAT-PRE-2026-00001",
                 "pr_detail": 1
             },
             {
@@ -21,7 +21,7 @@
                 "qty": 3000,
                 "warehouse": "Raw Material Warehouse - SCF",
                 "rate": 1.85,
-                "purchase_receipt": "PUR-REC-00001",
+                "purchase_receipt": "MAT-PRE-2026-00001",
                 "pr_detail": 2
             },
             {
@@ -29,7 +29,7 @@
                 "qty": 200,
                 "warehouse": "Raw Material Warehouse - SCF",
                 "rate": 42.00,
-                "purchase_receipt": "PUR-REC-00001",
+                "purchase_receipt": "MAT-PRE-2026-00001",
                 "pr_detail": 3
             }
         ]
@@ -48,7 +48,7 @@
                 "qty": 300,
                 "warehouse": "Raw Material Warehouse - SCF",
                 "rate": 26.50,
-                "purchase_receipt": "PUR-REC-00002",
+                "purchase_receipt": "MAT-PRE-2026-00002",
                 "pr_detail": 1
             },
             {
@@ -56,7 +56,7 @@
                 "qty": 500,
                 "warehouse": "Raw Material Warehouse - SCF",
                 "rate": 14.75,
-                "purchase_receipt": "PUR-REC-00002",
+                "purchase_receipt": "MAT-PRE-2026-00002",
                 "pr_detail": 2
             },
             {
@@ -64,7 +64,7 @@
                 "qty": 300,
                 "warehouse": "Raw Material Warehouse - SCF",
                 "rate": 31.00,
-                "purchase_receipt": "PUR-REC-00002",
+                "purchase_receipt": "MAT-PRE-2026-00002",
                 "pr_detail": 3
             }
         ]
@@ -83,7 +83,7 @@
                 "qty": 250,
                 "warehouse": "Raw Material Warehouse - SCF",
                 "rate": 6.80,
-                "purchase_receipt": "PUR-REC-00003",
+                "purchase_receipt": "MAT-PRE-2026-00003",
                 "pr_detail": 1
             },
             {
@@ -91,7 +91,7 @@
                 "qty": 200,
                 "warehouse": "Raw Material Warehouse - SCF",
                 "rate": 8.40,
-                "purchase_receipt": "PUR-REC-00003",
+                "purchase_receipt": "MAT-PRE-2026-00003",
                 "pr_detail": 2
             }
         ]
@@ -110,7 +110,7 @@
                 "qty": 10000,
                 "warehouse": "Raw Material Warehouse - SCF",
                 "rate": 0.75,
-                "purchase_receipt": "PUR-REC-00004",
+                "purchase_receipt": "MAT-PRE-2026-00004",
                 "pr_detail": 1
             },
             {
@@ -118,7 +118,7 @@
                 "qty": 10000,
                 "warehouse": "Raw Material Warehouse - SCF",
                 "rate": 0.30,
-                "purchase_receipt": "PUR-REC-00004",
+                "purchase_receipt": "MAT-PRE-2026-00004",
                 "pr_detail": 2
             }
         ]
@@ -137,7 +137,7 @@
                 "qty": 120,
                 "warehouse": "Raw Material Warehouse - SCF",
                 "rate": 12.50,
-                "purchase_receipt": "PUR-REC-00005",
+                "purchase_receipt": "MAT-PRE-2026-00005",
                 "pr_detail": 1
             },
             {
@@ -145,7 +145,7 @@
                 "qty": 120,
                 "warehouse": "Raw Material Warehouse - SCF",
                 "rate": 16.75,
-                "purchase_receipt": "PUR-REC-00005",
+                "purchase_receipt": "MAT-PRE-2026-00005",
                 "pr_detail": 2
             }
         ]

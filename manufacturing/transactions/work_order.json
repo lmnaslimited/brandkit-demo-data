@@ -9,7 +9,7 @@
         "wip_warehouse": "Work In Progress Warehouse - SCF",
         "source_warehouse": "Raw Materials Warehouse - SCF",
         "planned_start_date": "2026-01-25",
-        "material_request": "MAT-REQ-00001"
+        "material_request": "MAT-MR-2026-00001"
     },
     {
         "doctype": "Work Order",
@@ -21,7 +21,7 @@
         "wip_warehouse": "Work In Progress Warehouse - SCF",
         "source_warehouse": "Raw Materials Warehouse - SCF",
         "planned_start_date": "2026-01-26",
-        "material_request": "MAT-REQ-00002"
+        "material_request": "MAT-MR-2026-00002"
     },
     {
         "doctype": "Work Order",
@@ -33,6 +33,6 @@
         "wip_warehouse": "Work In Progress Warehouse - SCF",
         "source_warehouse": "Raw Materials Warehouse - SCF",
         "planned_start_date": "2026-01-27",
-        "material_request": "MAT-REQ-00003"
+        "material_request": "MAT-MR-2026-00003"
     }
 ]

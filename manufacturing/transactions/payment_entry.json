@@ -15,7 +15,7 @@
         "references": [
             {
                 "reference_doctype": "Sales Invoice",
-                "reference_name": "SINV-MFG-0001",
+                "reference_name": "ACC-SINV-00001",
                 "allocated_amount": 1900.00
             }
         ]
@@ -36,7 +36,7 @@
         "references": [
             {
                 "reference_doctype": "Sales Invoice",
-                "reference_name": "SINV-MFG-0002",
+                "reference_name": "ACC-SINV-00002",
                 "allocated_amount": 1400.00
             }
         ]
@@ -57,7 +57,7 @@
         "references": [
             {
                 "reference_doctype": "Sales Invoice",
-                "reference_name": "SINV-MFG-0003",
+                "reference_name": "ACC-SINV-00003",
                 "allocated_amount": 3600.00
             }
         ]
@@ -78,7 +78,7 @@
         "references": [
             {
                 "reference_doctype": "Sales Invoice",
-                "reference_name": "SINV-MFG-0004",
+                "reference_name": "ACC-SINV-00004",
                 "allocated_amount": 2750.00
             }
         ]

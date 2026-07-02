@@ -15,7 +15,7 @@
                 "uom": "Nos",
                 "warehouse": "Finished Goods Warehouse - SCF",
                 "rate": 950.00,
-                "delivery_note": "DN-MFG-0001"
+                "delivery_note": "MAT-DN-2026-00001"
             }
         ]
     },
@@ -35,7 +35,7 @@
                 "uom": "Nos",
                 "warehouse": "Finished Goods Warehouse - SCF",
                 "rate": 1400.00,
-                "delivery_note": "DN-MFG-0002"
+                "delivery_note": "MAT-DN-2026-00002"
             }
         ]
     },
@@ -55,7 +55,7 @@
                 "uom": "Nos",
                 "warehouse": "Finished Goods Warehouse - SCF",
                 "rate": 1800.00,
-                "delivery_note": "DN-MFG-0003"
+                "delivery_note": "MAT-DN-2026-00003"
             }
         ]
     },
@@ -75,7 +75,7 @@
                 "uom": "Nos",
                 "warehouse": "Finished Goods Warehouse - SCF",
                 "rate": 950.00,
-                "delivery_note": "DN-MFG-0004"
+                "delivery_note": "MAT-DN-2026-00004"
             },
             {
                 "item_code": "FG-MACHINE-BASE",
@@ -83,7 +83,7 @@
                 "uom": "Nos",
                 "warehouse": "Finished Goods Warehouse - SCF",
                 "rate": 1800.00,
-                "delivery_note": "DN-MFG-0004"
+                "delivery_note": "MAT-DN-2026-00004"
             }
         ]
     }
