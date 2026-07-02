@@ -2,13 +2,5 @@
     {
         "id": "manufacturing",
         "title": "Manufacturing"
-    },
-    {
-        "id": "retail",
-        "title": "Retail"
-    },
-    {
-        "id": "healthcare",
-        "title": "Healthcare"
     }
 ]
