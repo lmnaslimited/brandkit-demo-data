@@ -15,7 +15,7 @@
         "references": [
             {
                 "reference_doctype": "Sales Invoice",
-                "reference_name": "ACC-SINV-00001",
+                "reference_name": "ACC-SINV-2026-00001",
                 "allocated_amount": 1900.00
             }
         ]
