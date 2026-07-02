@@ -6,13 +6,13 @@
         "posting_time": "10:00:00",
         "company": "SteelCraft Fabricators LLC",
         "currency": "USD",
-        "set_warehouse": "Finished Goods Warehouse - SFI",
+        "set_warehouse": "Finished Goods Warehouse - SCF",
         "items": [
             {
                 "item_code": "FG-STEEL-FRAME",
                 "qty": 2,
                 "uom": "Nos",
-                "warehouse": "Finished Goods Warehouse - SFI",
+                "warehouse": "Finished Goods Warehouse - SCF",
                 "rate": 950.00,
                 "against_sales_order": "SO-MFG-0001"
             }
@@ -25,13 +25,13 @@
         "posting_time": "09:30:00",
         "company": "SteelCraft Fabricators LLC",
         "currency": "USD",
-        "set_warehouse": "Finished Goods Warehouse - SFI",
+        "set_warehouse": "Finished Goods Warehouse - SCF",
         "items": [
             {
                 "item_code": "FG-PIPE-SKID",
                 "qty": 1,
                 "uom": "Nos",
-                "warehouse": "Finished Goods Warehouse - SFI",
+                "warehouse": "Finished Goods Warehouse - SCF",
                 "rate": 1400.00,
                 "against_sales_order": "SO-MFG-0002"
             }
@@ -44,13 +44,13 @@
         "posting_time": "11:15:00",
         "company": "SteelCraft Fabricators LLC",
         "currency": "USD",
-        "set_warehouse": "Finished Goods Warehouse - SFI",
+        "set_warehouse": "Finished Goods Warehouse - SCF",
         "items": [
             {
                 "item_code": "FG-MACHINE-BASE",
                 "qty": 2,
                 "uom": "Nos",
-                "warehouse": "Finished Goods Warehouse - SFI",
+                "warehouse": "Finished Goods Warehouse - SCF",
                 "rate": 1800.00,
                 "against_sales_order": "SO-MFG-0003"
             }
@@ -63,13 +63,13 @@
         "posting_time": "14:00:00",
         "company": "SteelCraft Fabricators LLC",
         "currency": "USD",
-        "set_warehouse": "Finished Goods Warehouse - SFI",
+        "set_warehouse": "Finished Goods Warehouse - SCF",
         "items": [
             {
                 "item_code": "FG-STEEL-FRAME",
                 "qty": 1,
                 "uom": "Nos",
-                "warehouse": "Finished Goods Warehouse - SFI",
+                "warehouse": "Finished Goods Warehouse - SCF",
                 "rate": 950.00,
                 "against_sales_order": "SO-MFG-0004"
             },
@@ -77,7 +77,7 @@
                 "item_code": "FG-MACHINE-BASE",
                 "qty": 1,
                 "uom": "Nos",
-                "warehouse": "Finished Goods Warehouse - SFI",
+                "warehouse": "Finished Goods Warehouse - SCF",
                 "rate": 1800.00,
                 "against_sales_order": "SO-MFG-0004"
             }

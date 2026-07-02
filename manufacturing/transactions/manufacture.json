@@ -13,7 +13,7 @@
                 "qty": 5,
                 "uom": "Nos",
                 "is_finished_item": 1,
-                "t_warehouse": "Finished Goods Warehouse - SFI"
+                "t_warehouse": "Finished Goods Warehouse - SCF"
             }
         ]
     },
@@ -31,7 +31,7 @@
                 "qty": 4,
                 "uom": "Nos",
                 "is_finished_item": 1,
-                "t_warehouse": "Finished Goods Warehouse - SFI"
+                "t_warehouse": "Finished Goods Warehouse - SCF"
             }
         ]
     },
@@ -49,7 +49,7 @@
                 "qty": 3,
                 "uom": "Nos",
                 "is_finished_item": 1,
-                "t_warehouse": "Finished Goods Warehouse - SFI"
+                "t_warehouse": "Finished Goods Warehouse - SCF"
             }
         ]
     }

@@ -5,9 +5,9 @@
         "bom_no": "BOM-FG-STEEL-FRAME-001",
         "qty": 5,
         "company": "SteelCraft Fabricators LLC",
-        "fg_warehouse": "Finished Goods Warehouse - SFI",
-        "wip_warehouse": "Work In Progress Warehouse - SFI",
-        "source_warehouse": "Raw Materials Warehouse - SFI",
+        "fg_warehouse": "Finished Goods Warehouse - SCF",
+        "wip_warehouse": "Work In Progress Warehouse - SCF",
+        "source_warehouse": "Raw Materials Warehouse - SCF",
         "planned_start_date": "2026-01-25",
         "material_request": "MAT-REQ-00001"
     },
@@ -17,9 +17,9 @@
         "bom_no": "BOM-FG-MACHINE-BASE-001",
         "qty": 4,
         "company": "SteelCraft Fabricators LLC",
-        "fg_warehouse": "Finished Goods Warehouse - SFI",
-        "wip_warehouse": "Work In Progress Warehouse - SFI",
-        "source_warehouse": "Raw Materials Warehouse - SFI",
+        "fg_warehouse": "Finished Goods Warehouse - SCF",
+        "wip_warehouse": "Work In Progress Warehouse - SCF",
+        "source_warehouse": "Raw Materials Warehouse - SCF",
         "planned_start_date": "2026-01-26",
         "material_request": "MAT-REQ-00002"
     },
@@ -29,9 +29,9 @@
         "bom_no": "BOM-FG-PIPE-SKID-001",
         "qty": 3,
         "company": "SteelCraft Fabricators LLC",
-        "fg_warehouse": "Finished Goods Warehouse - SFI",
-        "wip_warehouse": "Work In Progress Warehouse - SFI",
-        "source_warehouse": "Raw Materials Warehouse - SFI",
+        "fg_warehouse": "Finished Goods Warehouse - SCF",
+        "wip_warehouse": "Work In Progress Warehouse - SCF",
+        "source_warehouse": "Raw Materials Warehouse - SCF",
         "planned_start_date": "2026-01-27",
         "material_request": "MAT-REQ-00003"
     }

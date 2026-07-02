@@ -3,7 +3,7 @@
         "doctype": "Stock Entry",
         "stock_entry_type": "Material Receipt",
         "company": "SteelCraft Fabricators LLC",
-        "to_warehouse": "Raw Material Warehouse - SFI",
+        "to_warehouse": "Raw Material Warehouse - SCF",
         "posting_date": "2026-01-01",
         "posting_time": "09:00:00",
         "items": [
@@ -13,7 +13,7 @@
                 "uom": "Kg",
                 "stock_uom": "Kg",
                 "basic_rate": 1.20,
-                "t_warehouse": "Raw Material Warehouse - SFI"
+                "t_warehouse": "Raw Material Warehouse - SCF"
             },
             {
                 "item_code": "RM-PLATE-20MM",
@@ -21,7 +21,7 @@
                 "uom": "Kg",
                 "stock_uom": "Kg",
                 "basic_rate": 1.85,
-                "t_warehouse": "Raw Material Warehouse - SFI"
+                "t_warehouse": "Raw Material Warehouse - SCF"
             },
             {
                 "item_code": "RM-I-BEAM-200",
@@ -29,7 +29,7 @@
                 "uom": "Meter",
                 "stock_uom": "Meter",
                 "basic_rate": 42.00,
-                "t_warehouse": "Raw Material Warehouse - SFI"
+                "t_warehouse": "Raw Material Warehouse - SCF"
             },
             {
                 "item_code": "RM-CHANNEL-150",
@@ -37,7 +37,7 @@
                 "uom": "Meter",
                 "stock_uom": "Meter",
                 "basic_rate": 26.50,
-                "t_warehouse": "Raw Material Warehouse - SFI"
+                "t_warehouse": "Raw Material Warehouse - SCF"
             },
             {
                 "item_code": "RM-ANGLE-75",
@@ -45,7 +45,7 @@
                 "uom": "Meter",
                 "stock_uom": "Meter",
                 "basic_rate": 14.75,
-                "t_warehouse": "Raw Material Warehouse - SFI"
+                "t_warehouse": "Raw Material Warehouse - SCF"
             },
             {
                 "item_code": "RM-PIPE-100",
@@ -53,7 +53,7 @@
                 "uom": "Meter",
                 "stock_uom": "Meter",
                 "basic_rate": 31.00,
-                "t_warehouse": "Raw Material Warehouse - SFI"
+                "t_warehouse": "Raw Material Warehouse - SCF"
             },
             {
                 "item_code": "RM-BOLT-M16",
@@ -61,7 +61,7 @@
                 "uom": "Nos",
                 "stock_uom": "Nos",
                 "basic_rate": 0.75,
-                "t_warehouse": "Raw Material Warehouse - SFI"
+                "t_warehouse": "Raw Material Warehouse - SCF"
             },
             {
                 "item_code": "RM-NUT-M16",
@@ -69,7 +69,7 @@
                 "uom": "Nos",
                 "stock_uom": "Nos",
                 "basic_rate": 0.30,
-                "t_warehouse": "Raw Material Warehouse - SFI"
+                "t_warehouse": "Raw Material Warehouse - SCF"
             },
             {
                 "item_code": "CON-WELD-7018",
@@ -77,7 +77,7 @@
                 "uom": "Kg",
                 "stock_uom": "Kg",
                 "basic_rate": 6.80,
-                "t_warehouse": "Raw Material Warehouse - SFI"
+                "t_warehouse": "Raw Material Warehouse - SCF"
             },
             {
                 "item_code": "CON-MIG-WIRE",
@@ -85,7 +85,7 @@
                 "uom": "Kg",
                 "stock_uom": "Kg",
                 "basic_rate": 8.40,
-                "t_warehouse": "Raw Material Warehouse - SFI"
+                "t_warehouse": "Raw Material Warehouse - SCF"
             },
             {
                 "item_code": "CON-OXYGEN",
@@ -93,7 +93,7 @@
                 "uom": "Nos",
                 "stock_uom": "Nos",
                 "basic_rate": 65.00,
-                "t_warehouse": "Raw Material Warehouse - SFI"
+                "t_warehouse": "Raw Material Warehouse - SCF"
             },
             {
                 "item_code": "CON-CO2",
@@ -101,7 +101,7 @@
                 "uom": "Nos",
                 "stock_uom": "Nos",
                 "basic_rate": 58.00,
-                "t_warehouse": "Raw Material Warehouse - SFI"
+                "t_warehouse": "Raw Material Warehouse - SCF"
             },
             {
                 "item_code": "CON-PRIMER",
@@ -109,7 +109,7 @@
                 "uom": "Litre",
                 "stock_uom": "Litre",
                 "basic_rate": 12.50,
-                "t_warehouse": "Raw Material Warehouse - SFI"
+                "t_warehouse": "Raw Material Warehouse - SCF"
             },
             {
                 "item_code": "CON-TOPCOAT",
@@ -117,7 +117,7 @@
                 "uom": "Litre",
                 "stock_uom": "Litre",
                 "basic_rate": 16.75,
-                "t_warehouse": "Raw Material Warehouse - SFI"
+                "t_warehouse": "Raw Material Warehouse - SCF"
             }
         ]
     }

@@ -13,7 +13,7 @@
                 "item_code": "FG-STEEL-FRAME",
                 "qty": 2,
                 "uom": "Nos",
-                "warehouse": "Finished Goods Warehouse - SFI",
+                "warehouse": "Finished Goods Warehouse - SCF",
                 "rate": 950.00
             }
         ]
@@ -32,7 +32,7 @@
                 "item_code": "FG-PIPE-SKID",
                 "qty": 1,
                 "uom": "Nos",
-                "warehouse": "Finished Goods Warehouse - SFI",
+                "warehouse": "Finished Goods Warehouse - SCF",
                 "rate": 1400.00
             }
         ]
@@ -51,7 +51,7 @@
                 "item_code": "FG-MACHINE-BASE",
                 "qty": 2,
                 "uom": "Nos",
-                "warehouse": "Finished Goods Warehouse - SFI",
+                "warehouse": "Finished Goods Warehouse - SCF",
                 "rate": 1800.00
             }
         ]
@@ -70,14 +70,14 @@
                 "item_code": "FG-STEEL-FRAME",
                 "qty": 1,
                 "uom": "Nos",
-                "warehouse": "Finished Goods Warehouse - SFI",
+                "warehouse": "Finished Goods Warehouse - SCF",
                 "rate": 950.00
             },
             {
                 "item_code": "FG-MACHINE-BASE",
                 "qty": 1,
                 "uom": "Nos",
-                "warehouse": "Finished Goods Warehouse - SFI",
+                "warehouse": "Finished Goods Warehouse - SCF",
                 "rate": 1800.00
             }
         ]

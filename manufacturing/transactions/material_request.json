@@ -5,13 +5,13 @@
         "transaction_date": "2026-01-18",
         "schedule_date": "2026-01-25",
         "company": "SteelCraft Fabricators LLC",
-        "set_warehouse": "Finished Goods Warehouse - SFI",
+        "set_warehouse": "Finished Goods Warehouse - SCF",
         "items": [
             {
                 "item_code": "FG-STEEL-FRAME",
                 "qty": 5,
                 "uom": "Nos",
-                "warehouse": "Finished Goods Warehouse - SFI",
+                "warehouse": "Finished Goods Warehouse - SCF",
                 "schedule_date": "2026-01-25"
             }
         ]
@@ -22,13 +22,13 @@
         "transaction_date": "2026-01-18",
         "schedule_date": "2026-01-26",
         "company": "SteelCraft Fabricators LLC",
-        "set_warehouse": "Finished Goods Warehouse - SFI",
+        "set_warehouse": "Finished Goods Warehouse - SCF",
         "items": [
             {
                 "item_code": "FG-MACHINE-BASE",
                 "qty": 4,
                 "uom": "Nos",
-                "warehouse": "Finished Goods Warehouse - SFI",
+                "warehouse": "Finished Goods Warehouse - SCF",
                 "schedule_date": "2026-01-26"
             }
         ]
@@ -39,13 +39,13 @@
         "transaction_date": "2026-01-19",
         "schedule_date": "2026-01-27",
         "company": "SteelCraft Fabricators LLC",
-        "set_warehouse": "Finished Goods Warehouse - SFI",
+        "set_warehouse": "Finished Goods Warehouse - SCF",
         "items": [
             {
                 "item_code": "FG-PIPE-SKID",
                 "qty": 3,
                 "uom": "Nos",
-                "warehouse": "Finished Goods Warehouse - SFI",
+                "warehouse": "Finished Goods Warehouse - SCF",
                 "schedule_date": "2026-01-27"
             }
         ]
