@@ -4,7 +4,7 @@
         "customer": "Skyline Construction Ltd.",
         "posting_date": "2026-02-08",
         "posting_time": "15:30:00",
-        "company": "Steel Fabrication Inc.",
+        "company": "SteelCraft Fabricators LLC",
         "currency": "USD",
         "selling_price_list": "Standard Selling",
         "update_stock": 0,
@@ -13,7 +13,7 @@
                 "item_code": "FG-STEEL-FRAME",
                 "qty": 2,
                 "uom": "Nos",
-                "warehouse": "Finished Goods - SFI",
+                "warehouse": "Finished Goods Warehouse - SFI",
                 "rate": 950.00,
                 "delivery_note": "DN-MFG-0001"
             }
@@ -24,7 +24,7 @@
         "customer": "Atlas Infrastructure Corp.",
         "posting_date": "2026-02-09",
         "posting_time": "14:15:00",
-        "company": "Steel Fabrication Inc.",
+        "company": "SteelCraft Fabricators LLC",
         "currency": "USD",
         "selling_price_list": "Standard Selling",
         "update_stock": 0,
@@ -33,7 +33,7 @@
                 "item_code": "FG-PIPE-SKID",
                 "qty": 1,
                 "uom": "Nos",
-                "warehouse": "Finished Goods - SFI",
+                "warehouse": "Finished Goods Warehouse - SFI",
                 "rate": 1400.00,
                 "delivery_note": "DN-MFG-0002"
             }
@@ -44,7 +44,7 @@
         "customer": "Precision Equipment Manufacturing",
         "posting_date": "2026-02-10",
         "posting_time": "16:00:00",
-        "company": "Steel Fabrication Inc.",
+        "company": "SteelCraft Fabricators LLC",
         "currency": "USD",
         "selling_price_list": "Standard Selling",
         "update_stock": 0,
@@ -53,7 +53,7 @@
                 "item_code": "FG-MACHINE-BASE",
                 "qty": 2,
                 "uom": "Nos",
-                "warehouse": "Finished Goods - SFI",
+                "warehouse": "Finished Goods Warehouse - SFI",
                 "rate": 1800.00,
                 "delivery_note": "DN-MFG-0003"
             }
@@ -64,7 +64,7 @@
         "customer": "United Heavy Industries",
         "posting_date": "2026-02-11",
         "posting_time": "17:00:00",
-        "company": "Steel Fabrication Inc.",
+        "company": "SteelCraft Fabricators LLC",
         "currency": "USD",
         "selling_price_list": "Standard Selling",
         "update_stock": 0,
@@ -73,7 +73,7 @@
                 "item_code": "FG-STEEL-FRAME",
                 "qty": 1,
                 "uom": "Nos",
-                "warehouse": "Finished Goods - SFI",
+                "warehouse": "Finished Goods Warehouse - SFI",
                 "rate": 950.00,
                 "delivery_note": "DN-MFG-0004"
             },
@@ -81,7 +81,7 @@
                 "item_code": "FG-MACHINE-BASE",
                 "qty": 1,
                 "uom": "Nos",
-                "warehouse": "Finished Goods - SFI",
+                "warehouse": "Finished Goods Warehouse - SFI",
                 "rate": 1800.00,
                 "delivery_note": "DN-MFG-0004"
             }

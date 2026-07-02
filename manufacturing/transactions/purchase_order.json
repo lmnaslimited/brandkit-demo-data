@@ -4,7 +4,7 @@
         "supplier": "National Steel Supply",
         "transaction_date": "2026-01-05",
         "schedule_date": "2026-01-10",
-        "company": "Steel Fabrication Inc.",
+        "company": "SteelCraft Fabricators LLC",
         "currency": "USD",
         "buying_price_list": "Standard Buying",
         "items": [
@@ -13,7 +13,7 @@
                 "qty": 5000,
                 "uom": "Kg",
                 "schedule_date": "2026-01-10",
-                "warehouse": "Raw Materials - SFI",
+                "warehouse": "Raw Materials Warehouse - SFI",
                 "rate": 1.20
             },
             {
@@ -21,7 +21,7 @@
                 "qty": 3000,
                 "uom": "Kg",
                 "schedule_date": "2026-01-10",
-                "warehouse": "Raw Materials - SFI",
+                "warehouse": "Raw Materials Warehouse - SFI",
                 "rate": 1.85
             },
             {
@@ -29,7 +29,7 @@
                 "qty": 200,
                 "uom": "Meter",
                 "schedule_date": "2026-01-10",
-                "warehouse": "Raw Materials - SFI",
+                "warehouse": "Raw Materials Warehouse - SFI",
                 "rate": 42.00
             }
         ]
@@ -39,7 +39,7 @@
         "supplier": "Prime Metals Inc.",
         "transaction_date": "2026-01-06",
         "schedule_date": "2026-01-12",
-        "company": "Steel Fabrication Inc.",
+        "company": "SteelCraft Fabricators LLC",
         "currency": "USD",
         "buying_price_list": "Standard Buying",
         "items": [
@@ -48,7 +48,7 @@
                 "qty": 300,
                 "uom": "Meter",
                 "schedule_date": "2026-01-12",
-                "warehouse": "Raw Materials - SFI",
+                "warehouse": "Raw Materials Warehouse - SFI",
                 "rate": 26.50
             },
             {
@@ -56,7 +56,7 @@
                 "qty": 500,
                 "uom": "Meter",
                 "schedule_date": "2026-01-12",
-                "warehouse": "Raw Materials - SFI",
+                "warehouse": "Raw Materials Warehouse - SFI",
                 "rate": 14.75
             },
             {
@@ -64,7 +64,7 @@
                 "qty": 300,
                 "uom": "Meter",
                 "schedule_date": "2026-01-12",
-                "warehouse": "Raw Materials - SFI",
+                "warehouse": "Raw Materials Warehouse - SFI",
                 "rate": 31.00
             }
         ]
@@ -74,7 +74,7 @@
         "supplier": "Industrial Welding Supply",
         "transaction_date": "2026-01-07",
         "schedule_date": "2026-01-13",
-        "company": "Steel Fabrication Inc.",
+        "company": "SteelCraft Fabricators LLC",
         "currency": "USD",
         "buying_price_list": "Standard Buying",
         "items": [
@@ -83,7 +83,7 @@
                 "qty": 250,
                 "uom": "Kg",
                 "schedule_date": "2026-01-13",
-                "warehouse": "Raw Materials - SFI",
+                "warehouse": "Raw Materials Warehouse - SFI",
                 "rate": 6.80
             },
             {
@@ -91,7 +91,7 @@
                 "qty": 200,
                 "uom": "Kg",
                 "schedule_date": "2026-01-13",
-                "warehouse": "Raw Materials - SFI",
+                "warehouse": "Raw Materials Warehouse - SFI",
                 "rate": 8.40
             }
         ]
@@ -101,7 +101,7 @@
         "supplier": "Precision Fasteners LLC",
         "transaction_date": "2026-01-08",
         "schedule_date": "2026-01-14",
-        "company": "Steel Fabrication Inc.",
+        "company": "SteelCraft Fabricators LLC",
         "currency": "USD",
         "buying_price_list": "Standard Buying",
         "items": [
@@ -110,7 +110,7 @@
                 "qty": 10000,
                 "uom": "Nos",
                 "schedule_date": "2026-01-14",
-                "warehouse": "Raw Materials - SFI",
+                "warehouse": "Raw Materials Warehouse - SFI",
                 "rate": 0.75
             },
             {
@@ -118,7 +118,7 @@
                 "qty": 10000,
                 "uom": "Nos",
                 "schedule_date": "2026-01-14",
-                "warehouse": "Raw Materials - SFI",
+                "warehouse": "Raw Materials Warehouse - SFI",
                 "rate": 0.30
             }
         ]
@@ -128,7 +128,7 @@
         "supplier": "ProPaint Coatings",
         "transaction_date": "2026-01-09",
         "schedule_date": "2026-01-15",
-        "company": "Steel Fabrication Inc.",
+        "company": "SteelCraft Fabricators LLC",
         "currency": "USD",
         "buying_price_list": "Standard Buying",
         "items": [
@@ -137,7 +137,7 @@
                 "qty": 120,
                 "uom": "Litre",
                 "schedule_date": "2026-01-15",
-                "warehouse": "Raw Materials - SFI",
+                "warehouse": "Raw Materials Warehouse - SFI",
                 "rate": 12.50
             },
             {
@@ -145,7 +145,7 @@
                 "qty": 120,
                 "uom": "Litre",
                 "schedule_date": "2026-01-15",
-                "warehouse": "Raw Materials - SFI",
+                "warehouse": "Raw Materials Warehouse - SFI",
                 "rate": 16.75
             }
         ]

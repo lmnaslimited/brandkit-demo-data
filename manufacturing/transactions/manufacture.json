@@ -2,7 +2,7 @@
     {
         "doctype": "Stock Entry",
         "stock_entry_type": "Manufacture",
-        "company": "Steel Fabrication Inc.",
+        "company": "SteelCraft Fabricators LLC",
         "posting_date": "2026-01-25",
         "work_order": "WO-MFG-0001",
         "from_bom": 1,
@@ -13,14 +13,14 @@
                 "qty": 5,
                 "uom": "Nos",
                 "is_finished_item": 1,
-                "t_warehouse": "Finished Goods - SFI"
+                "t_warehouse": "Finished Goods Warehouse - SFI"
             }
         ]
     },
     {
         "doctype": "Stock Entry",
         "stock_entry_type": "Manufacture",
-        "company": "Steel Fabrication Inc.",
+        "company": "SteelCraft Fabricators LLC",
         "posting_date": "2026-01-26",
         "work_order": "WO-MFG-0002",
         "from_bom": 1,
@@ -31,14 +31,14 @@
                 "qty": 4,
                 "uom": "Nos",
                 "is_finished_item": 1,
-                "t_warehouse": "Finished Goods - SFI"
+                "t_warehouse": "Finished Goods Warehouse - SFI"
             }
         ]
     },
     {
         "doctype": "Stock Entry",
         "stock_entry_type": "Manufacture",
-        "company": "Steel Fabrication Inc.",
+        "company": "SteelCraft Fabricators LLC",
         "posting_date": "2026-01-27",
         "work_order": "WO-MFG-0003",
         "from_bom": 1,
@@ -49,7 +49,7 @@
                 "qty": 3,
                 "uom": "Nos",
                 "is_finished_item": 1,
-                "t_warehouse": "Finished Goods - SFI"
+                "t_warehouse": "Finished Goods Warehouse - SFI"
             }
         ]
     }

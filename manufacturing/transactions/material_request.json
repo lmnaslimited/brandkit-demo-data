@@ -4,14 +4,14 @@
         "material_request_type": "Manufacture",
         "transaction_date": "2026-01-18",
         "schedule_date": "2026-01-25",
-        "company": "Steel Fabrication Inc.",
-        "set_warehouse": "Finished Goods - SFI",
+        "company": "SteelCraft Fabricators LLC",
+        "set_warehouse": "Finished Goods Warehouse - SFI",
         "items": [
             {
                 "item_code": "FG-STEEL-FRAME",
                 "qty": 5,
                 "uom": "Nos",
-                "warehouse": "Finished Goods - SFI",
+                "warehouse": "Finished Goods Warehouse - SFI",
                 "schedule_date": "2026-01-25"
             }
         ]
@@ -21,14 +21,14 @@
         "material_request_type": "Manufacture",
         "transaction_date": "2026-01-18",
         "schedule_date": "2026-01-26",
-        "company": "Steel Fabrication Inc.",
-        "set_warehouse": "Finished Goods - SFI",
+        "company": "SteelCraft Fabricators LLC",
+        "set_warehouse": "Finished Goods Warehouse - SFI",
         "items": [
             {
                 "item_code": "FG-MACHINE-BASE",
                 "qty": 4,
                 "uom": "Nos",
-                "warehouse": "Finished Goods - SFI",
+                "warehouse": "Finished Goods Warehouse - SFI",
                 "schedule_date": "2026-01-26"
             }
         ]
@@ -38,14 +38,14 @@
         "material_request_type": "Manufacture",
         "transaction_date": "2026-01-19",
         "schedule_date": "2026-01-27",
-        "company": "Steel Fabrication Inc.",
-        "set_warehouse": "Finished Goods - SFI",
+        "company": "SteelCraft Fabricators LLC",
+        "set_warehouse": "Finished Goods Warehouse - SFI",
         "items": [
             {
                 "item_code": "FG-PIPE-SKID",
                 "qty": 3,
                 "uom": "Nos",
-                "warehouse": "Finished Goods - SFI",
+                "warehouse": "Finished Goods Warehouse - SFI",
                 "schedule_date": "2026-01-27"
             }
         ]
