@@ -9,21 +9,21 @@
         "fg_completed_qty": 5,
         "items": [
             {
-                "item_code": "RM-STEEL-PLATE-10MM",
+                "item_code": "RM-PLATE-10MM",
                 "qty": 250,
                 "uom": "Kg",
                 "s_warehouse": "Work In Progress Warehouse - SCF"
             },
             {
-                "item_code": "RM-ANGLE-50X50",
+                "item_code": "RM-ANGLE-75",
                 "qty": 50,
-                "uom": "Nos",
+                "uom": "Meter",
                 "s_warehouse": "Work In Progress Warehouse - SCF"
             },
             {
-                "item_code": "RM-WELDING-WIRE",
+                "item_code": "RM-I-BEAM-200",
                 "qty": 10,
-                "uom": "Kg",
+                "uom": "Meter",
                 "s_warehouse": "Work In Progress Warehouse - SCF"
             },
             {
@@ -45,21 +45,21 @@
         "fg_completed_qty": 4,
         "items": [
             {
-                "item_code": "RM-STEEL-PLATE-20MM",
+                "item_code": "RM-PLATE-20MM",
                 "qty": 320,
                 "uom": "Kg",
                 "s_warehouse": "Work In Progress Warehouse - SCF"
             },
             {
-                "item_code": "RM-CHANNEL-100",
+                "item_code": "RM-CHANNEL-150",
                 "qty": 24,
-                "uom": "Nos",
+                "uom": "Meter",
                 "s_warehouse": "Work In Progress Warehouse - SCF"
             },
             {
-                "item_code": "RM-WELDING-WIRE",
+                "item_code": "RM-I-BEAM-200",
                 "qty": 12,
-                "uom": "Kg",
+                "uom": "Meter",
                 "s_warehouse": "Work In Progress Warehouse - SCF"
             },
             {
@@ -81,21 +81,21 @@
         "fg_completed_qty": 3,
         "items": [
             {
-                "item_code": "RM-STEEL-PIPE-100MM",
+                "item_code": "RM-PIPE-100",
                 "qty": 36,
                 "uom": "Nos",
                 "s_warehouse": "Work In Progress Warehouse - SCF"
             },
             {
-                "item_code": "RM-STEEL-PLATE-10MM",
+                "item_code": "RM-PLATE-10MM",
                 "qty": 90,
                 "uom": "Kg",
                 "s_warehouse": "Work In Progress Warehouse - SCF"
             },
             {
-                "item_code": "RM-WELDING-WIRE",
+                "item_code": "RM-I-BEAM-200",
                 "qty": 6,
-                "uom": "Kg",
+                "uom": "Meter",
                 "s_warehouse": "Work In Progress Warehouse - SCF"
             },
             {
