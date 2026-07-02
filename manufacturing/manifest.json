@@ -28,11 +28,13 @@
     "transactions": [
         {
             "file": "purchase_order.json",
-            "doctype": "Purchase Order"
+            "doctype": "Purchase Order",
+            "submit": true
         },
         {
             "file": "sales_order.json",
-            "doctype": "Sales Order"
+            "doctype": "Sales Order",
+            "submit": false
         }
     ]
 }
