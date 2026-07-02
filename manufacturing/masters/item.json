@@ -106,7 +106,7 @@
         "item_code": "CON-CO2",
         "item_name": "Carbon Dioxide Gas",
         "item_group": "Industrial Gases",
-        "stock_uom": "Cylinder",
+        "stock_uom": "Nos",
         "is_stock_item": 1
     },
     {
