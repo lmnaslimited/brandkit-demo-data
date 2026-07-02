@@ -1,11 +1,17 @@
 [
     {
         "doctype": "Company",
-        "company_name": "Demo Manufacturing Pvt Ltd",
-        "abbr": "DMPL",
+        "company_name": "SteelCraft Fabricators LLC",
+        "abbr": "SCF",
         "default_currency": "USD",
         "country": "United States",
+        "email": "info@steelcraftfabricators.com",
+        "phone_no": "+1-214-555-0100",
+        "website": "https://www.steelcraftfabricators.com",
         "create_chart_of_accounts_based_on": "Standard Template",
-        "chart_of_accounts": "Standard"
+        "chart_of_accounts": "Standard with Numbers",
+        "default_bank_account": "",
+        "default_cash_account": "",
+        "date_of_establishment": "2015-04-01"
     }
 ]

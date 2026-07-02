@@ -1,0 +1,98 @@
+[
+    {
+        "doctype": "Item Group",
+        "item_group_name": "Raw Materials",
+        "parent_item_group": "All Item Groups",
+        "is_group": 1
+    },
+    {
+        "doctype": "Item Group",
+        "item_group_name": "Steel Plates",
+        "parent_item_group": "Raw Materials",
+        "is_group": 0
+    },
+    {
+        "doctype": "Item Group",
+        "item_group_name": "Steel Sections",
+        "parent_item_group": "Raw Materials",
+        "is_group": 0
+    },
+    {
+        "doctype": "Item Group",
+        "item_group_name": "Steel Pipes",
+        "parent_item_group": "Raw Materials",
+        "is_group": 0
+    },
+    {
+        "doctype": "Item Group",
+        "item_group_name": "Fasteners",
+        "parent_item_group": "Raw Materials",
+        "is_group": 0
+    },
+    {
+        "doctype": "Item Group",
+        "item_group_name": "Consumables",
+        "parent_item_group": "All Item Groups",
+        "is_group": 1
+    },
+    {
+        "doctype": "Item Group",
+        "item_group_name": "Welding Consumables",
+        "parent_item_group": "Consumables",
+        "is_group": 0
+    },
+    {
+        "doctype": "Item Group",
+        "item_group_name": "Industrial Gases",
+        "parent_item_group": "Consumables",
+        "is_group": 0
+    },
+    {
+        "doctype": "Item Group",
+        "item_group_name": "Paints & Coatings",
+        "parent_item_group": "Consumables",
+        "is_group": 0
+    },
+    {
+        "doctype": "Item Group",
+        "item_group_name": "Finished Goods",
+        "parent_item_group": "All Item Groups",
+        "is_group": 1
+    },
+    {
+        "doctype": "Item Group",
+        "item_group_name": "Structural Fabrication",
+        "parent_item_group": "Finished Goods",
+        "is_group": 0
+    },
+    {
+        "doctype": "Item Group",
+        "item_group_name": "Industrial Fabrication",
+        "parent_item_group": "Finished Goods",
+        "is_group": 0
+    },
+    {
+        "doctype": "Item Group",
+        "item_group_name": "Custom Assemblies",
+        "parent_item_group": "Finished Goods",
+        "is_group": 0
+    },
+    {
+        "doctype": "Item Group",
+        "item_group_name": "Services",
+        "parent_item_group": "All Item Groups",
+        "is_group": 1
+    },
+    {
+        "doctype": "Item Group",
+        "item_group_name": "Fabrication Services",
+        "parent_item_group": "Services",
+        "is_group": 0
+    },
+    {
+        "doctype": "Item Group",
+        "item_group_name": "Installation Services",
+        "parent_item_group": "Services",
+        "is_group": 0
+    }
+]

@@ -1,12 +1,11 @@
 [
     {
-        "doctype": "Sales Order",
+        "doctype": "Delivery Note",
         "customer": "Skyline Construction Ltd.",
-        "transaction_date": "2026-02-01",
-        "delivery_date": "2026-02-08",
+        "posting_date": "2026-02-08",
+        "posting_time": "10:00:00",
         "company": "Steel Fabrication Inc.",
         "currency": "USD",
-        "selling_price_list": "Standard Selling",
         "set_warehouse": "Finished Goods - SFI",
         "items": [
             {
@@ -14,18 +13,18 @@
                 "qty": 2,
                 "uom": "Nos",
                 "warehouse": "Finished Goods - SFI",
-                "rate": 950.00
+                "rate": 950.00,
+                "against_sales_order": "SO-MFG-0001"
             }
         ]
     },
     {
-        "doctype": "Sales Order",
+        "doctype": "Delivery Note",
         "customer": "Atlas Infrastructure Corp.",
-        "transaction_date": "2026-02-02",
-        "delivery_date": "2026-02-09",
+        "posting_date": "2026-02-09",
+        "posting_time": "09:30:00",
         "company": "Steel Fabrication Inc.",
         "currency": "USD",
-        "selling_price_list": "Standard Selling",
         "set_warehouse": "Finished Goods - SFI",
         "items": [
             {
@@ -33,18 +32,18 @@
                 "qty": 1,
                 "uom": "Nos",
                 "warehouse": "Finished Goods - SFI",
-                "rate": 1400.00
+                "rate": 1400.00,
+                "against_sales_order": "SO-MFG-0002"
             }
         ]
     },
     {
-        "doctype": "Sales Order",
+        "doctype": "Delivery Note",
         "customer": "Precision Equipment Manufacturing",
-        "transaction_date": "2026-02-03",
-        "delivery_date": "2026-02-10",
+        "posting_date": "2026-02-10",
+        "posting_time": "11:15:00",
         "company": "Steel Fabrication Inc.",
         "currency": "USD",
-        "selling_price_list": "Standard Selling",
         "set_warehouse": "Finished Goods - SFI",
         "items": [
             {
@@ -52,18 +51,18 @@
                 "qty": 2,
                 "uom": "Nos",
                 "warehouse": "Finished Goods - SFI",
-                "rate": 1800.00
+                "rate": 1800.00,
+                "against_sales_order": "SO-MFG-0003"
             }
         ]
     },
     {
-        "doctype": "Sales Order",
+        "doctype": "Delivery Note",
         "customer": "United Heavy Industries",
-        "transaction_date": "2026-02-04",
-        "delivery_date": "2026-02-11",
+        "posting_date": "2026-02-11",
+        "posting_time": "14:00:00",
         "company": "Steel Fabrication Inc.",
         "currency": "USD",
-        "selling_price_list": "Standard Selling",
         "set_warehouse": "Finished Goods - SFI",
         "items": [
             {
@@ -71,14 +70,16 @@
                 "qty": 1,
                 "uom": "Nos",
                 "warehouse": "Finished Goods - SFI",
-                "rate": 950.00
+                "rate": 950.00,
+                "against_sales_order": "SO-MFG-0004"
             },
             {
                 "item_code": "FG-MACHINE-BASE",
                 "qty": 1,
                 "uom": "Nos",
                 "warehouse": "Finished Goods - SFI",
-                "rate": 1800.00
+                "rate": 1800.00,
+                "against_sales_order": "SO-MFG-0004"
             }
         ]
     }

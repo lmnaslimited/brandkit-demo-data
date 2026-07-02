@@ -1,0 +1,124 @@
+[
+    {
+        "doctype": "Stock Entry",
+        "stock_entry_type": "Material Receipt",
+        "company": "Steel Fabrication Inc.",
+        "to_warehouse": "Raw Materials - SFI",
+        "posting_date": "2026-01-01",
+        "posting_time": "09:00:00",
+        "items": [
+            {
+                "item_code": "RM-PLATE-10MM",
+                "qty": 15000,
+                "uom": "Kg",
+                "stock_uom": "Kg",
+                "basic_rate": 1.20,
+                "t_warehouse": "Raw Materials - SFI"
+            },
+            {
+                "item_code": "RM-PLATE-20MM",
+                "qty": 8000,
+                "uom": "Kg",
+                "stock_uom": "Kg",
+                "basic_rate": 1.85,
+                "t_warehouse": "Raw Materials - SFI"
+            },
+            {
+                "item_code": "RM-I-BEAM-200",
+                "qty": 500,
+                "uom": "Meter",
+                "stock_uom": "Meter",
+                "basic_rate": 42.00,
+                "t_warehouse": "Raw Materials - SFI"
+            },
+            {
+                "item_code": "RM-CHANNEL-150",
+                "qty": 750,
+                "uom": "Meter",
+                "stock_uom": "Meter",
+                "basic_rate": 26.50,
+                "t_warehouse": "Raw Materials - SFI"
+            },
+            {
+                "item_code": "RM-ANGLE-75",
+                "qty": 1000,
+                "uom": "Meter",
+                "stock_uom": "Meter",
+                "basic_rate": 14.75,
+                "t_warehouse": "Raw Materials - SFI"
+            },
+            {
+                "item_code": "RM-PIPE-100",
+                "qty": 600,
+                "uom": "Meter",
+                "stock_uom": "Meter",
+                "basic_rate": 31.00,
+                "t_warehouse": "Raw Materials - SFI"
+            },
+            {
+                "item_code": "RM-BOLT-M16",
+                "qty": 20000,
+                "uom": "Nos",
+                "stock_uom": "Nos",
+                "basic_rate": 0.75,
+                "t_warehouse": "Raw Materials - SFI"
+            },
+            {
+                "item_code": "RM-NUT-M16",
+                "qty": 20000,
+                "uom": "Nos",
+                "stock_uom": "Nos",
+                "basic_rate": 0.30,
+                "t_warehouse": "Raw Materials - SFI"
+            },
+            {
+                "item_code": "CON-WELD-7018",
+                "qty": 500,
+                "uom": "Kg",
+                "stock_uom": "Kg",
+                "basic_rate": 6.80,
+                "t_warehouse": "Raw Materials - SFI"
+            },
+            {
+                "item_code": "CON-MIG-WIRE",
+                "qty": 400,
+                "uom": "Kg",
+                "stock_uom": "Kg",
+                "basic_rate": 8.40,
+                "t_warehouse": "Raw Materials - SFI"
+            },
+            {
+                "item_code": "CON-OXYGEN",
+                "qty": 30,
+                "uom": "Cylinder",
+                "stock_uom": "Cylinder",
+                "basic_rate": 65.00,
+                "t_warehouse": "Raw Materials - SFI"
+            },
+            {
+                "item_code": "CON-CO2",
+                "qty": 30,
+                "uom": "Cylinder",
+                "stock_uom": "Cylinder",
+                "basic_rate": 58.00,
+                "t_warehouse": "Raw Materials - SFI"
+            },
+            {
+                "item_code": "CON-PRIMER",
+                "qty": 250,
+                "uom": "Litre",
+                "stock_uom": "Litre",
+                "basic_rate": 12.50,
+                "t_warehouse": "Raw Materials - SFI"
+            },
+            {
+                "item_code": "CON-TOPCOAT",
+                "qty": 250,
+                "uom": "Litre",
+                "stock_uom": "Litre",
+                "basic_rate": 16.75,
+                "t_warehouse": "Raw Materials - SFI"
+            }
+        ]
+    }
+]

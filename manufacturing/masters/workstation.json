@@ -1,0 +1,37 @@
+[
+    {
+        "doctype": "Workstation",
+        "workstation_name": "Cutting Station",
+        "production_capacity": 1,
+        "hour_rate": 45,
+        "working_hours": 8
+    },
+    {
+        "doctype": "Workstation",
+        "workstation_name": "Fabrication Bay",
+        "production_capacity": 2,
+        "hour_rate": 55,
+        "working_hours": 8
+    },
+    {
+        "doctype": "Workstation",
+        "workstation_name": "Welding Station",
+        "production_capacity": 2,
+        "hour_rate": 60,
+        "working_hours": 8
+    },
+    {
+        "doctype": "Workstation",
+        "workstation_name": "Painting Booth",
+        "production_capacity": 1,
+        "hour_rate": 40,
+        "working_hours": 8
+    },
+    {
+        "doctype": "Workstation",
+        "workstation_name": "Quality Inspection",
+        "production_capacity": 1,
+        "hour_rate": 35,
+        "working_hours": 8
+    }
+]

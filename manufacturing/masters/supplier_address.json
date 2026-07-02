@@ -1,0 +1,138 @@
+[
+    {
+        "doctype": "Address",
+        "address_title": "National Steel Supply",
+        "address_type": "Billing",
+        "address_line1": "1200 Industrial Drive",
+        "address_line2": "Suite 100",
+        "city": "Houston",
+        "state": "Texas",
+        "country": "United States",
+        "pincode": "77001",
+        "links": [
+            {
+                "link_doctype": "Supplier",
+                "link_name": "National Steel Supply"
+            }
+        ]
+    },
+    {
+        "doctype": "Address",
+        "address_title": "Prime Metals Inc.",
+        "address_type": "Billing",
+        "address_line1": "480 Commerce Avenue",
+        "address_line2": "Building B",
+        "city": "Dallas",
+        "state": "Texas",
+        "country": "United States",
+        "pincode": "75201",
+        "links": [
+            {
+                "link_doctype": "Supplier",
+                "link_name": "Prime Metals Inc."
+            }
+        ]
+    },
+    {
+        "doctype": "Address",
+        "address_title": "Industrial Welding Supply",
+        "address_type": "Billing",
+        "address_line1": "890 Fabrication Road",
+        "address_line2": "",
+        "city": "Fort Worth",
+        "state": "Texas",
+        "country": "United States",
+        "pincode": "76102",
+        "links": [
+            {
+                "link_doctype": "Supplier",
+                "link_name": "Industrial Welding Supply"
+            }
+        ]
+    },
+    {
+        "doctype": "Address",
+        "address_title": "Precision Fasteners LLC",
+        "address_type": "Billing",
+        "address_line1": "2250 Bolt Street",
+        "address_line2": "",
+        "city": "Arlington",
+        "state": "Texas",
+        "country": "United States",
+        "pincode": "76010",
+        "links": [
+            {
+                "link_doctype": "Supplier",
+                "link_name": "Precision Fasteners LLC"
+            }
+        ]
+    },
+    {
+        "doctype": "Address",
+        "address_title": "ProPaint Coatings",
+        "address_type": "Billing",
+        "address_line1": "1550 Coating Park",
+        "address_line2": "",
+        "city": "Austin",
+        "state": "Texas",
+        "country": "United States",
+        "pincode": "73301",
+        "links": [
+            {
+                "link_doctype": "Supplier",
+                "link_name": "ProPaint Coatings"
+            }
+        ]
+    },
+    {
+        "doctype": "Address",
+        "address_title": "Hydro Gas Suppliers",
+        "address_type": "Billing",
+        "address_line1": "700 Industrial Gas Parkway",
+        "address_line2": "",
+        "city": "San Antonio",
+        "state": "Texas",
+        "country": "United States",
+        "pincode": "78205",
+        "links": [
+            {
+                "link_doctype": "Supplier",
+                "link_name": "Hydro Gas Suppliers"
+            }
+        ]
+    },
+    {
+        "doctype": "Address",
+        "address_title": "MachineTech Equipment",
+        "address_type": "Billing",
+        "address_line1": "3200 Machinery Boulevard",
+        "address_line2": "",
+        "city": "Tulsa",
+        "state": "Oklahoma",
+        "country": "United States",
+        "pincode": "74103",
+        "links": [
+            {
+                "link_doctype": "Supplier",
+                "link_name": "MachineTech Equipment"
+            }
+        ]
+    },
+    {
+        "doctype": "Address",
+        "address_title": "Industrial Maintenance Services",
+        "address_type": "Billing",
+        "address_line1": "410 Service Center Road",
+        "address_line2": "",
+        "city": "Oklahoma City",
+        "state": "Oklahoma",
+        "country": "United States",
+        "pincode": "73102",
+        "links": [
+            {
+                "link_doctype": "Supplier",
+                "link_name": "Industrial Maintenance Services"
+            }
+        ]
+    }
+]

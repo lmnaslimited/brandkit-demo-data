@@ -1,0 +1,130 @@
+[
+    {
+        "doctype": "Address",
+        "address_title": "Skyline Construction Ltd.",
+        "address_type": "Billing",
+        "address_line1": "1250 Industrial Parkway",
+        "city": "Houston",
+        "state": "Texas",
+        "country": "United States",
+        "pincode": "77001",
+        "links": [
+            {
+                "link_doctype": "Customer",
+                "link_name": "Skyline Construction Ltd."
+            }
+        ]
+    },
+    {
+        "doctype": "Address",
+        "address_title": "Atlas Infrastructure Corp.",
+        "address_type": "Billing",
+        "address_line1": "4500 Commerce Drive",
+        "city": "Dallas",
+        "state": "Texas",
+        "country": "United States",
+        "pincode": "75201",
+        "links": [
+            {
+                "link_doctype": "Customer",
+                "link_name": "Atlas Infrastructure Corp."
+            }
+        ]
+    },
+    {
+        "doctype": "Address",
+        "address_title": "Titan Mining LLC",
+        "address_type": "Billing",
+        "address_line1": "890 Quarry Road",
+        "city": "Phoenix",
+        "state": "Arizona",
+        "country": "United States",
+        "pincode": "85001",
+        "links": [
+            {
+                "link_doctype": "Customer",
+                "link_name": "Titan Mining LLC"
+            }
+        ]
+    },
+    {
+        "doctype": "Address",
+        "address_title": "Delta Oil Services",
+        "address_type": "Billing",
+        "address_line1": "780 Energy Avenue",
+        "city": "Midland",
+        "state": "Texas",
+        "country": "United States",
+        "pincode": "79701",
+        "links": [
+            {
+                "link_doctype": "Customer",
+                "link_name": "Delta Oil Services"
+            }
+        ]
+    },
+    {
+        "doctype": "Address",
+        "address_title": "Precision Equipment Manufacturing",
+        "address_type": "Billing",
+        "address_line1": "220 Manufacturing Blvd",
+        "city": "Chicago",
+        "state": "Illinois",
+        "country": "United States",
+        "pincode": "60601",
+        "links": [
+            {
+                "link_doctype": "Customer",
+                "link_name": "Precision Equipment Manufacturing"
+            }
+        ]
+    },
+    {
+        "doctype": "Address",
+        "address_title": "Pioneer Industrial Systems",
+        "address_type": "Billing",
+        "address_line1": "610 Industrial Park Road",
+        "city": "Detroit",
+        "state": "Michigan",
+        "country": "United States",
+        "pincode": "48201",
+        "links": [
+            {
+                "link_doctype": "Customer",
+                "link_name": "Pioneer Industrial Systems"
+            }
+        ]
+    },
+    {
+        "doctype": "Address",
+        "address_title": "Metro Structural Engineering",
+        "address_type": "Billing",
+        "address_line1": "980 Structural Avenue",
+        "city": "Denver",
+        "state": "Colorado",
+        "country": "United States",
+        "pincode": "80201",
+        "links": [
+            {
+                "link_doctype": "Customer",
+                "link_name": "Metro Structural Engineering"
+            }
+        ]
+    },
+    {
+        "doctype": "Address",
+        "address_title": "United Heavy Industries",
+        "address_type": "Billing",
+        "address_line1": "3100 Industrial Loop",
+        "city": "Cleveland",
+        "state": "Ohio",
+        "country": "United States",
+        "pincode": "44101",
+        "links": [
+            {
+                "link_doctype": "Customer",
+                "link_name": "United Heavy Industries"
+            }
+        ]
+    }
+]

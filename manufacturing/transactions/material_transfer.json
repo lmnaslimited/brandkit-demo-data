@@ -1,0 +1,112 @@
+[
+    {
+        "doctype": "Stock Entry",
+        "stock_entry_type": "Material Transfer for Manufacture",
+        "work_order": "WO-MFG-0001",
+        "company": "Steel Fabrication Inc.",
+        "posting_date": "2026-01-25",
+        "from_bom": 1,
+        "fg_completed_qty": 5,
+        "items": [
+            {
+                "item_code": "RM-PLATE-20MM",
+                "qty": 600,
+                "uom": "Kg",
+                "s_warehouse": "Raw Materials - SFI",
+                "t_warehouse": "Work In Progress - SFI"
+            },
+            {
+                "item_code": "CON-WELD-7018",
+                "qty": 15,
+                "uom": "Kg",
+                "s_warehouse": "Raw Materials - SFI",
+                "t_warehouse": "Work In Progress - SFI"
+            },
+            {
+                "item_code": "CON-PRIMER",
+                "qty": 8,
+                "uom": "Litre",
+                "s_warehouse": "Raw Materials - SFI",
+                "t_warehouse": "Work In Progress - SFI"
+            }
+        ]
+    },
+    {
+        "doctype": "Stock Entry",
+        "stock_entry_type": "Material Transfer for Manufacture",
+        "work_order": "WO-MFG-0002",
+        "company": "Steel Fabrication Inc.",
+        "posting_date": "2026-01-26",
+        "from_bom": 1,
+        "fg_completed_qty": 4,
+        "items": [
+            {
+                "item_code": "RM-I-BEAM-200",
+                "qty": 48,
+                "uom": "Meter",
+                "s_warehouse": "Raw Materials - SFI",
+                "t_warehouse": "Work In Progress - SFI"
+            },
+            {
+                "item_code": "RM-BOLT-M16",
+                "qty": 96,
+                "uom": "Nos",
+                "s_warehouse": "Raw Materials - SFI",
+                "t_warehouse": "Work In Progress - SFI"
+            },
+            {
+                "item_code": "RM-NUT-M16",
+                "qty": 96,
+                "uom": "Nos",
+                "s_warehouse": "Raw Materials - SFI",
+                "t_warehouse": "Work In Progress - SFI"
+            },
+            {
+                "item_code": "CON-TOPCOAT",
+                "qty": 10,
+                "uom": "Litre",
+                "s_warehouse": "Raw Materials - SFI",
+                "t_warehouse": "Work In Progress - SFI"
+            }
+        ]
+    },
+    {
+        "doctype": "Stock Entry",
+        "stock_entry_type": "Material Transfer for Manufacture",
+        "work_order": "WO-MFG-0003",
+        "company": "Steel Fabrication Inc.",
+        "posting_date": "2026-01-27",
+        "from_bom": 1,
+        "fg_completed_qty": 3,
+        "items": [
+            {
+                "item_code": "RM-PIPE-100",
+                "qty": 30,
+                "uom": "Meter",
+                "s_warehouse": "Raw Materials - SFI",
+                "t_warehouse": "Work In Progress - SFI"
+            },
+            {
+                "item_code": "RM-ANGLE-75",
+                "qty": 18,
+                "uom": "Meter",
+                "s_warehouse": "Raw Materials - SFI",
+                "t_warehouse": "Work In Progress - SFI"
+            },
+            {
+                "item_code": "CON-WELD-7018",
+                "qty": 9,
+                "uom": "Kg",
+                "s_warehouse": "Raw Materials - SFI",
+                "t_warehouse": "Work In Progress - SFI"
+            },
+            {
+                "item_code": "CON-PRIMER",
+                "qty": 4,
+                "uom": "Litre",
+                "s_warehouse": "Raw Materials - SFI",
+                "t_warehouse": "Work In Progress - SFI"
+            }
+        ]
+    }
+]

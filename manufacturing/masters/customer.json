@@ -1,14 +1,66 @@
 [
     {
         "doctype": "Customer",
-        "customer_name": "ABC Industries",
-        "customer_group": "Commercial",
-        "territory": "All Territories"
+        "customer_name": "Skyline Construction Ltd.",
+        "customer_group": "Construction Companies",
+        "customer_type": "Company",
+        "territory": "All Territories",
+        "default_currency": "USD"
     },
     {
         "doctype": "Customer",
-        "customer_name": "Global Manufacturing",
-        "customer_group": "Commercial",
-        "territory": "All Territories"
+        "customer_name": "Atlas Infrastructure Corp.",
+        "customer_group": "Infrastructure Projects",
+        "customer_type": "Company",
+        "territory": "All Territories",
+        "default_currency": "USD"
+    },
+    {
+        "doctype": "Customer",
+        "customer_name": "Titan Mining LLC",
+        "customer_group": "Mining Companies",
+        "customer_type": "Company",
+        "territory": "All Territories",
+        "default_currency": "USD"
+    },
+    {
+        "doctype": "Customer",
+        "customer_name": "Delta Oil Services",
+        "customer_group": "Oil & Gas Contractors",
+        "customer_type": "Company",
+        "territory": "All Territories",
+        "default_currency": "USD"
+    },
+    {
+        "doctype": "Customer",
+        "customer_name": "Precision Equipment Manufacturing",
+        "customer_group": "Equipment Manufacturers",
+        "customer_type": "Company",
+        "territory": "All Territories",
+        "default_currency": "USD"
+    },
+    {
+        "doctype": "Customer",
+        "customer_name": "Pioneer Industrial Systems",
+        "customer_group": "Industrial Manufacturers",
+        "customer_type": "Company",
+        "territory": "All Territories",
+        "default_currency": "USD"
+    },
+    {
+        "doctype": "Customer",
+        "customer_name": "Metro Structural Engineering",
+        "customer_group": "Construction Companies",
+        "customer_type": "Company",
+        "territory": "All Territories",
+        "default_currency": "USD"
+    },
+    {
+        "doctype": "Customer",
+        "customer_name": "United Heavy Industries",
+        "customer_group": "Industrial Manufacturers",
+        "customer_type": "Company",
+        "territory": "All Territories",
+        "default_currency": "USD"
     }
 ]

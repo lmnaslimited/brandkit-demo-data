@@ -1,152 +1,152 @@
 [
     {
-        "doctype": "Purchase Order",
+        "doctype": "Purchase Invoice",
         "supplier": "National Steel Supply",
-        "transaction_date": "2026-01-05",
-        "schedule_date": "2026-01-10",
         "company": "Steel Fabrication Inc.",
+        "posting_date": "2026-01-11",
+        "posting_time": "14:00:00",
         "currency": "USD",
         "buying_price_list": "Standard Buying",
         "items": [
             {
                 "item_code": "RM-PLATE-10MM",
                 "qty": 5000,
-                "uom": "Kg",
-                "schedule_date": "2026-01-10",
                 "warehouse": "Raw Materials - SFI",
-                "rate": 1.20
+                "rate": 1.20,
+                "purchase_receipt": "PUR-REC-00001",
+                "pr_detail": 1
             },
             {
                 "item_code": "RM-PLATE-20MM",
                 "qty": 3000,
-                "uom": "Kg",
-                "schedule_date": "2026-01-10",
                 "warehouse": "Raw Materials - SFI",
-                "rate": 1.85
+                "rate": 1.85,
+                "purchase_receipt": "PUR-REC-00001",
+                "pr_detail": 2
             },
             {
                 "item_code": "RM-I-BEAM-200",
                 "qty": 200,
-                "uom": "Meter",
-                "schedule_date": "2026-01-10",
                 "warehouse": "Raw Materials - SFI",
-                "rate": 42.00
+                "rate": 42.00,
+                "purchase_receipt": "PUR-REC-00001",
+                "pr_detail": 3
             }
         ]
     },
     {
-        "doctype": "Purchase Order",
+        "doctype": "Purchase Invoice",
         "supplier": "Prime Metals Inc.",
-        "transaction_date": "2026-01-06",
-        "schedule_date": "2026-01-12",
         "company": "Steel Fabrication Inc.",
+        "posting_date": "2026-01-13",
+        "posting_time": "13:30:00",
         "currency": "USD",
         "buying_price_list": "Standard Buying",
         "items": [
             {
                 "item_code": "RM-CHANNEL-150",
                 "qty": 300,
-                "uom": "Meter",
-                "schedule_date": "2026-01-12",
                 "warehouse": "Raw Materials - SFI",
-                "rate": 26.50
+                "rate": 26.50,
+                "purchase_receipt": "PUR-REC-00002",
+                "pr_detail": 1
             },
             {
                 "item_code": "RM-ANGLE-75",
                 "qty": 500,
-                "uom": "Meter",
-                "schedule_date": "2026-01-12",
                 "warehouse": "Raw Materials - SFI",
-                "rate": 14.75
+                "rate": 14.75,
+                "purchase_receipt": "PUR-REC-00002",
+                "pr_detail": 2
             },
             {
                 "item_code": "RM-PIPE-100",
                 "qty": 300,
-                "uom": "Meter",
-                "schedule_date": "2026-01-12",
                 "warehouse": "Raw Materials - SFI",
-                "rate": 31.00
+                "rate": 31.00,
+                "purchase_receipt": "PUR-REC-00002",
+                "pr_detail": 3
             }
         ]
     },
     {
-        "doctype": "Purchase Order",
+        "doctype": "Purchase Invoice",
         "supplier": "Industrial Welding Supply",
-        "transaction_date": "2026-01-07",
-        "schedule_date": "2026-01-13",
         "company": "Steel Fabrication Inc.",
+        "posting_date": "2026-01-14",
+        "posting_time": "11:15:00",
         "currency": "USD",
         "buying_price_list": "Standard Buying",
         "items": [
             {
                 "item_code": "CON-WELD-7018",
                 "qty": 250,
-                "uom": "Kg",
-                "schedule_date": "2026-01-13",
                 "warehouse": "Raw Materials - SFI",
-                "rate": 6.80
+                "rate": 6.80,
+                "purchase_receipt": "PUR-REC-00003",
+                "pr_detail": 1
             },
             {
                 "item_code": "CON-MIG-WIRE",
                 "qty": 200,
-                "uom": "Kg",
-                "schedule_date": "2026-01-13",
                 "warehouse": "Raw Materials - SFI",
-                "rate": 8.40
+                "rate": 8.40,
+                "purchase_receipt": "PUR-REC-00003",
+                "pr_detail": 2
             }
         ]
     },
     {
-        "doctype": "Purchase Order",
+        "doctype": "Purchase Invoice",
         "supplier": "Precision Fasteners LLC",
-        "transaction_date": "2026-01-08",
-        "schedule_date": "2026-01-14",
         "company": "Steel Fabrication Inc.",
+        "posting_date": "2026-01-15",
+        "posting_time": "10:30:00",
         "currency": "USD",
         "buying_price_list": "Standard Buying",
         "items": [
             {
                 "item_code": "RM-BOLT-M16",
                 "qty": 10000,
-                "uom": "Nos",
-                "schedule_date": "2026-01-14",
                 "warehouse": "Raw Materials - SFI",
-                "rate": 0.75
+                "rate": 0.75,
+                "purchase_receipt": "PUR-REC-00004",
+                "pr_detail": 1
             },
             {
                 "item_code": "RM-NUT-M16",
                 "qty": 10000,
-                "uom": "Nos",
-                "schedule_date": "2026-01-14",
                 "warehouse": "Raw Materials - SFI",
-                "rate": 0.30
+                "rate": 0.30,
+                "purchase_receipt": "PUR-REC-00004",
+                "pr_detail": 2
             }
         ]
     },
     {
-        "doctype": "Purchase Order",
+        "doctype": "Purchase Invoice",
         "supplier": "ProPaint Coatings",
-        "transaction_date": "2026-01-09",
-        "schedule_date": "2026-01-15",
         "company": "Steel Fabrication Inc.",
+        "posting_date": "2026-01-16",
+        "posting_time": "09:45:00",
         "currency": "USD",
         "buying_price_list": "Standard Buying",
         "items": [
             {
                 "item_code": "CON-PRIMER",
                 "qty": 120,
-                "uom": "Litre",
-                "schedule_date": "2026-01-15",
                 "warehouse": "Raw Materials - SFI",
-                "rate": 12.50
+                "rate": 12.50,
+                "purchase_receipt": "PUR-REC-00005",
+                "pr_detail": 1
             },
             {
                 "item_code": "CON-TOPCOAT",
                 "qty": 120,
-                "uom": "Litre",
-                "schedule_date": "2026-01-15",
                 "warehouse": "Raw Materials - SFI",
-                "rate": 16.75
+                "rate": 16.75,
+                "purchase_receipt": "PUR-REC-00005",
+                "pr_detail": 2
             }
         ]
     }

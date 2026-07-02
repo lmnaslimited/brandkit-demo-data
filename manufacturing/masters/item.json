@@ -1,18 +1,186 @@
 [
     {
         "doctype": "Item",
-        "item_code": "RM-STEEL-001",
-        "item_name": "Steel Sheet",
-        "item_group": "Raw Material",
+        "item_code": "RM-PLATE-10MM",
+        "item_name": "Steel Plate 10 mm",
+        "item_group": "Steel Plates",
+        "stock_uom": "Kg",
+        "is_stock_item": 1,
+        "valuation_method": "FIFO",
+        "include_item_in_manufacturing": 1
+    },
+    {
+        "doctype": "Item",
+        "item_code": "RM-PLATE-20MM",
+        "item_name": "Steel Plate 20 mm",
+        "item_group": "Steel Plates",
+        "stock_uom": "Kg",
+        "is_stock_item": 1,
+        "valuation_method": "FIFO",
+        "include_item_in_manufacturing": 1
+    },
+    {
+        "doctype": "Item",
+        "item_code": "RM-I-BEAM-200",
+        "item_name": "I-Beam 200 mm",
+        "item_group": "Steel Sections",
+        "stock_uom": "Meter",
+        "is_stock_item": 1,
+        "valuation_method": "FIFO",
+        "include_item_in_manufacturing": 1
+    },
+    {
+        "doctype": "Item",
+        "item_code": "RM-CHANNEL-150",
+        "item_name": "Steel Channel 150 mm",
+        "item_group": "Steel Sections",
+        "stock_uom": "Meter",
+        "is_stock_item": 1,
+        "valuation_method": "FIFO",
+        "include_item_in_manufacturing": 1
+    },
+    {
+        "doctype": "Item",
+        "item_code": "RM-ANGLE-75",
+        "item_name": "Steel Angle 75 x 75",
+        "item_group": "Steel Sections",
+        "stock_uom": "Meter",
+        "is_stock_item": 1,
+        "valuation_method": "FIFO",
+        "include_item_in_manufacturing": 1
+    },
+    {
+        "doctype": "Item",
+        "item_code": "RM-PIPE-100",
+        "item_name": "Steel Pipe 100 mm",
+        "item_group": "Steel Pipes",
+        "stock_uom": "Meter",
+        "is_stock_item": 1,
+        "valuation_method": "FIFO",
+        "include_item_in_manufacturing": 1
+    },
+    {
+        "doctype": "Item",
+        "item_code": "RM-BOLT-M16",
+        "item_name": "Hex Bolt M16",
+        "item_group": "Fasteners",
         "stock_uom": "Nos",
+        "is_stock_item": 1,
+        "valuation_method": "FIFO"
+    },
+    {
+        "doctype": "Item",
+        "item_code": "RM-NUT-M16",
+        "item_name": "Hex Nut M16",
+        "item_group": "Fasteners",
+        "stock_uom": "Nos",
+        "is_stock_item": 1,
+        "valuation_method": "FIFO"
+    },
+    {
+        "doctype": "Item",
+        "item_code": "CON-WELD-7018",
+        "item_name": "Welding Electrode E7018",
+        "item_group": "Welding Consumables",
+        "stock_uom": "Kg",
         "is_stock_item": 1
     },
     {
         "doctype": "Item",
-        "item_code": "FG-TABLE-001",
-        "item_name": "Wooden Table",
-        "item_group": "Products",
-        "stock_uom": "Nos",
+        "item_code": "CON-MIG-WIRE",
+        "item_name": "MIG Welding Wire",
+        "item_group": "Welding Consumables",
+        "stock_uom": "Kg",
         "is_stock_item": 1
+    },
+    {
+        "doctype": "Item",
+        "item_code": "CON-OXYGEN",
+        "item_name": "Industrial Oxygen",
+        "item_group": "Industrial Gases",
+        "stock_uom": "Cylinder",
+        "is_stock_item": 1
+    },
+    {
+        "doctype": "Item",
+        "item_code": "CON-CO2",
+        "item_name": "Carbon Dioxide Gas",
+        "item_group": "Industrial Gases",
+        "stock_uom": "Cylinder",
+        "is_stock_item": 1
+    },
+    {
+        "doctype": "Item",
+        "item_code": "CON-PRIMER",
+        "item_name": "Metal Primer",
+        "item_group": "Paints & Coatings",
+        "stock_uom": "Litre",
+        "is_stock_item": 1
+    },
+    {
+        "doctype": "Item",
+        "item_code": "CON-TOPCOAT",
+        "item_name": "Industrial Top Coat",
+        "item_group": "Paints & Coatings",
+        "stock_uom": "Litre",
+        "is_stock_item": 1
+    },
+    {
+        "doctype": "Item",
+        "item_code": "FG-STEEL-FRAME",
+        "item_name": "Structural Steel Frame",
+        "item_group": "Structural Fabrication",
+        "stock_uom": "Nos",
+        "is_stock_item": 1,
+        "is_sales_item": 1,
+        "is_purchase_item": 0
+    },
+    {
+        "doctype": "Item",
+        "item_code": "FG-PIPE-SKID",
+        "item_name": "Pipe Support Skid",
+        "item_group": "Industrial Fabrication",
+        "stock_uom": "Nos",
+        "is_stock_item": 1,
+        "is_sales_item": 1,
+        "is_purchase_item": 0
+    },
+    {
+        "doctype": "Item",
+        "item_code": "FG-MACHINE-BASE",
+        "item_name": "Machine Base Frame",
+        "item_group": "Industrial Fabrication",
+        "stock_uom": "Nos",
+        "is_stock_item": 1,
+        "is_sales_item": 1,
+        "is_purchase_item": 0
+    },
+    {
+        "doctype": "Item",
+        "item_code": "FG-STAIRCASE",
+        "item_name": "Industrial Steel Staircase",
+        "item_group": "Structural Fabrication",
+        "stock_uom": "Nos",
+        "is_stock_item": 1,
+        "is_sales_item": 1,
+        "is_purchase_item": 0
+    },
+    {
+        "doctype": "Item",
+        "item_code": "SRV-FABRICATION",
+        "item_name": "Steel Fabrication Service",
+        "item_group": "Fabrication Services",
+        "stock_uom": "Hour",
+        "is_stock_item": 0,
+        "is_sales_item": 1
+    },
+    {
+        "doctype": "Item",
+        "item_code": "SRV-INSTALLATION",
+        "item_name": "Installation Service",
+        "item_group": "Installation Services",
+        "stock_uom": "Hour",
+        "is_stock_item": 0,
+        "is_sales_item": 1
     }
 ]

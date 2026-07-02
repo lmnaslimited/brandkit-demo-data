@@ -1,14 +1,37 @@
 [
     {
         "doctype": "Warehouse",
-        "warehouse_name": "Main Warehouse",
-        "company": "Demo Manufacturing Pvt Ltd",
-        "parent_warehouse": "All Warehouses - DMPL"
+        "warehouse_name": "Raw Material Warehouse",
+        "parent_warehouse": "All Warehouses - SCF",
+        "company": "SteelCraft Fabricators LLC",
+        "is_group": 0
+    },
+    {
+        "doctype": "Warehouse",
+        "warehouse_name": "Work In Progress Warehouse",
+        "parent_warehouse": "All Warehouses - SCF",
+        "company": "SteelCraft Fabricators LLC",
+        "is_group": 0
     },
     {
         "doctype": "Warehouse",
         "warehouse_name": "Finished Goods Warehouse",
-        "company": "Demo Manufacturing Pvt Ltd",
-        "parent_warehouse": "All Warehouses - DMPL"
+        "parent_warehouse": "All Warehouses - SCF",
+        "company": "SteelCraft Fabricators LLC",
+        "is_group": 0
+    },
+    {
+        "doctype": "Warehouse",
+        "warehouse_name": "Stores Warehouse",
+        "parent_warehouse": "All Warehouses - SCF",
+        "company": "SteelCraft Fabricators LLC",
+        "is_group": 0
+    },
+    {
+        "doctype": "Warehouse",
+        "warehouse_name": "Scrap Warehouse",
+        "parent_warehouse": "All Warehouses - SCF",
+        "company": "SteelCraft Fabricators LLC",
+        "is_group": 0
     }
 ]

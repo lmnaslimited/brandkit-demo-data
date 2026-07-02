@@ -1,0 +1,44 @@
+[
+    {
+        "doctype": "Supplier Group",
+        "supplier_group_name": "Steel Suppliers",
+        "parent_supplier_group": "All Supplier Groups",
+        "is_group": 0
+    },
+    {
+        "doctype": "Supplier Group",
+        "supplier_group_name": "Consumable Suppliers",
+        "parent_supplier_group": "All Supplier Groups",
+        "is_group": 0
+    },
+    {
+        "doctype": "Supplier Group",
+        "supplier_group_name": "Fastener Suppliers",
+        "parent_supplier_group": "All Supplier Groups",
+        "is_group": 0
+    },
+    {
+        "doctype": "Supplier Group",
+        "supplier_group_name": "Paint & Chemical Suppliers",
+        "parent_supplier_group": "All Supplier Groups",
+        "is_group": 0
+    },
+    {
+        "doctype": "Supplier Group",
+        "supplier_group_name": "Industrial Gas Suppliers",
+        "parent_supplier_group": "All Supplier Groups",
+        "is_group": 0
+    },
+    {
+        "doctype": "Supplier Group",
+        "supplier_group_name": "Equipment Suppliers",
+        "parent_supplier_group": "All Supplier Groups",
+        "is_group": 0
+    },
+    {
+        "doctype": "Supplier Group",
+        "supplier_group_name": "Maintenance Suppliers",
+        "parent_supplier_group": "All Supplier Groups",
+        "is_group": 0
+    }
+]

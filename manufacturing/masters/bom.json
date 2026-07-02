@@ -1,0 +1,198 @@
+[
+    {
+        "doctype": "BOM",
+        "item": "FG-STEEL-FRAME",
+        "quantity": 1,
+        "is_default": 1,
+        "is_active": 1,
+        "items": [
+            {
+                "item_code": "RM-I-BEAM-200",
+                "qty": 18,
+                "uom": "Meter"
+            },
+            {
+                "item_code": "RM-PLATE-20MM",
+                "qty": 350,
+                "uom": "Kg"
+            },
+            {
+                "item_code": "RM-BOLT-M16",
+                "qty": 64,
+                "uom": "Nos"
+            },
+            {
+                "item_code": "RM-NUT-M16",
+                "qty": 64,
+                "uom": "Nos"
+            },
+            {
+                "item_code": "CON-WELD-7018",
+                "qty": 12,
+                "uom": "Kg"
+            },
+            {
+                "item_code": "CON-OXYGEN",
+                "qty": 1,
+                "uom": "Cylinder"
+            },
+            {
+                "item_code": "CON-CO2",
+                "qty": 1,
+                "uom": "Cylinder"
+            },
+            {
+                "item_code": "CON-PRIMER",
+                "qty": 8,
+                "uom": "Litre"
+            },
+            {
+                "item_code": "CON-TOPCOAT",
+                "qty": 8,
+                "uom": "Litre"
+            }
+        ]
+    },
+    {
+        "doctype": "BOM",
+        "item": "FG-PIPE-SKID",
+        "quantity": 1,
+        "is_default": 1,
+        "is_active": 1,
+        "items": [
+            {
+                "item_code": "RM-PIPE-100",
+                "qty": 22,
+                "uom": "Meter"
+            },
+            {
+                "item_code": "RM-PLATE-10MM",
+                "qty": 180,
+                "uom": "Kg"
+            },
+            {
+                "item_code": "RM-BOLT-M16",
+                "qty": 36,
+                "uom": "Nos"
+            },
+            {
+                "item_code": "RM-NUT-M16",
+                "qty": 36,
+                "uom": "Nos"
+            },
+            {
+                "item_code": "CON-MIG-WIRE",
+                "qty": 6,
+                "uom": "Kg"
+            },
+            {
+                "item_code": "CON-OXYGEN",
+                "qty": 1,
+                "uom": "Cylinder"
+            },
+            {
+                "item_code": "CON-CO2",
+                "qty": 1,
+                "uom": "Cylinder"
+            },
+            {
+                "item_code": "CON-PRIMER",
+                "qty": 5,
+                "uom": "Litre"
+            },
+            {
+                "item_code": "CON-TOPCOAT",
+                "qty": 5,
+                "uom": "Litre"
+            }
+        ]
+    },
+    {
+        "doctype": "BOM",
+        "item": "FG-MACHINE-BASE",
+        "quantity": 1,
+        "is_default": 1,
+        "is_active": 1,
+        "items": [
+            {
+                "item_code": "RM-CHANNEL-150",
+                "qty": 15,
+                "uom": "Meter"
+            },
+            {
+                "item_code": "RM-PLATE-20MM",
+                "qty": 240,
+                "uom": "Kg"
+            },
+            {
+                "item_code": "RM-BOLT-M16",
+                "qty": 40,
+                "uom": "Nos"
+            },
+            {
+                "item_code": "RM-NUT-M16",
+                "qty": 40,
+                "uom": "Nos"
+            },
+            {
+                "item_code": "CON-WELD-7018",
+                "qty": 8,
+                "uom": "Kg"
+            },
+            {
+                "item_code": "CON-PRIMER",
+                "qty": 6,
+                "uom": "Litre"
+            },
+            {
+                "item_code": "CON-TOPCOAT",
+                "qty": 6,
+                "uom": "Litre"
+            }
+        ]
+    },
+    {
+        "doctype": "BOM",
+        "item": "FG-STAIRCASE",
+        "quantity": 1,
+        "is_default": 1,
+        "is_active": 1,
+        "items": [
+            {
+                "item_code": "RM-ANGLE-75",
+                "qty": 28,
+                "uom": "Meter"
+            },
+            {
+                "item_code": "RM-PLATE-10MM",
+                "qty": 120,
+                "uom": "Kg"
+            },
+            {
+                "item_code": "RM-BOLT-M16",
+                "qty": 52,
+                "uom": "Nos"
+            },
+            {
+                "item_code": "RM-NUT-M16",
+                "qty": 52,
+                "uom": "Nos"
+            },
+            {
+                "item_code": "CON-WELD-7018",
+                "qty": 5,
+                "uom": "Kg"
+            },
+            {
+                "item_code": "CON-PRIMER",
+                "qty": 4,
+                "uom": "Litre"
+            },
+            {
+                "item_code": "CON-TOPCOAT",
+                "qty": 4,
+                "uom": "Litre"
+            }
+        ]
+    }
+]

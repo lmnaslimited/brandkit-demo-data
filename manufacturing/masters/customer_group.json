@@ -1,0 +1,38 @@
+[
+    {
+        "doctype": "Customer Group",
+        "customer_group_name": "Construction Companies",
+        "parent_customer_group": "All Customer Groups",
+        "is_group": 0
+    },
+    {
+        "doctype": "Customer Group",
+        "customer_group_name": "Industrial Manufacturers",
+        "parent_customer_group": "All Customer Groups",
+        "is_group": 0
+    },
+    {
+        "doctype": "Customer Group",
+        "customer_group_name": "Oil & Gas Contractors",
+        "parent_customer_group": "All Customer Groups",
+        "is_group": 0
+    },
+    {
+        "doctype": "Customer Group",
+        "customer_group_name": "Mining Companies",
+        "parent_customer_group": "All Customer Groups",
+        "is_group": 0
+    },
+    {
+        "doctype": "Customer Group",
+        "customer_group_name": "Infrastructure Projects",
+        "parent_customer_group": "All Customer Groups",
+        "is_group": 0
+    },
+    {
+        "doctype": "Customer Group",
+        "customer_group_name": "Equipment Manufacturers",
+        "parent_customer_group": "All Customer Groups",
+        "is_group": 0
+    }
+]

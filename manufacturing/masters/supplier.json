@@ -1,9 +1,66 @@
 [
     {
         "doctype": "Supplier",
+        "supplier_name": "National Steel Supply",
+        "supplier_group": "Steel Suppliers",
         "supplier_type": "Company",
-        "supplier_name": "Steel Suppliers Ltd",
-        "Supplier_group": "Raw Material",
-        "territory": "All Territories"
+        "country": "United States",
+        "default_currency": "USD"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_name": "Prime Metals Inc.",
+        "supplier_group": "Steel Suppliers",
+        "supplier_type": "Company",
+        "country": "United States",
+        "default_currency": "USD"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_name": "Industrial Welding Supply",
+        "supplier_group": "Consumable Suppliers",
+        "supplier_type": "Company",
+        "country": "United States",
+        "default_currency": "USD"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_name": "Precision Fasteners LLC",
+        "supplier_group": "Fastener Suppliers",
+        "supplier_type": "Company",
+        "country": "United States",
+        "default_currency": "USD"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_name": "ProPaint Coatings",
+        "supplier_group": "Paint & Chemical Suppliers",
+        "supplier_type": "Company",
+        "country": "United States",
+        "default_currency": "USD"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_name": "Hydro Gas Suppliers",
+        "supplier_group": "Industrial Gas Suppliers",
+        "supplier_type": "Company",
+        "country": "United States",
+        "default_currency": "USD"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_name": "MachineTech Equipment",
+        "supplier_group": "Equipment Suppliers",
+        "supplier_type": "Company",
+        "country": "United States",
+        "default_currency": "USD"
+    },
+    {
+        "doctype": "Supplier",
+        "supplier_name": "Industrial Maintenance Services",
+        "supplier_group": "Maintenance Suppliers",
+        "supplier_type": "Company",
+        "country": "United States",
+        "default_currency": "USD"
     }
 ]

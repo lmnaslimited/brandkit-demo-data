@@ -1,0 +1,142 @@
+[
+    {
+        "doctype": "Item Price",
+        "price_list": "Standard Buying",
+        "item_code": "RM-PLATE-10MM",
+        "currency": "USD",
+        "price_list_rate": 1.20
+    },
+    {
+        "doctype": "Item Price",
+        "price_list": "Standard Buying",
+        "item_code": "RM-PLATE-20MM",
+        "currency": "USD",
+        "price_list_rate": 1.85
+    },
+    {
+        "doctype": "Item Price",
+        "price_list": "Standard Buying",
+        "item_code": "RM-I-BEAM-200",
+        "currency": "USD",
+        "price_list_rate": 42.00
+    },
+    {
+        "doctype": "Item Price",
+        "price_list": "Standard Buying",
+        "item_code": "RM-CHANNEL-150",
+        "currency": "USD",
+        "price_list_rate": 26.50
+    },
+    {
+        "doctype": "Item Price",
+        "price_list": "Standard Buying",
+        "item_code": "RM-ANGLE-75",
+        "currency": "USD",
+        "price_list_rate": 14.75
+    },
+    {
+        "doctype": "Item Price",
+        "price_list": "Standard Buying",
+        "item_code": "RM-PIPE-100",
+        "currency": "USD",
+        "price_list_rate": 31.00
+    },
+    {
+        "doctype": "Item Price",
+        "price_list": "Standard Buying",
+        "item_code": "RM-BOLT-M16",
+        "currency": "USD",
+        "price_list_rate": 0.75
+    },
+    {
+        "doctype": "Item Price",
+        "price_list": "Standard Buying",
+        "item_code": "RM-NUT-M16",
+        "currency": "USD",
+        "price_list_rate": 0.30
+    },
+    {
+        "doctype": "Item Price",
+        "price_list": "Standard Buying",
+        "item_code": "CON-WELD-7018",
+        "currency": "USD",
+        "price_list_rate": 6.80
+    },
+    {
+        "doctype": "Item Price",
+        "price_list": "Standard Buying",
+        "item_code": "CON-MIG-WIRE",
+        "currency": "USD",
+        "price_list_rate": 8.40
+    },
+    {
+        "doctype": "Item Price",
+        "price_list": "Standard Buying",
+        "item_code": "CON-OXYGEN",
+        "currency": "USD",
+        "price_list_rate": 65.00
+    },
+    {
+        "doctype": "Item Price",
+        "price_list": "Standard Buying",
+        "item_code": "CON-CO2",
+        "currency": "USD",
+        "price_list_rate": 58.00
+    },
+    {
+        "doctype": "Item Price",
+        "price_list": "Standard Buying",
+        "item_code": "CON-PRIMER",
+        "currency": "USD",
+        "price_list_rate": 12.50
+    },
+    {
+        "doctype": "Item Price",
+        "price_list": "Standard Buying",
+        "item_code": "CON-TOPCOAT",
+        "currency": "USD",
+        "price_list_rate": 16.75
+    },
+    {
+        "doctype": "Item Price",
+        "price_list": "Standard Selling",
+        "item_code": "FG-STEEL-FRAME",
+        "currency": "USD",
+        "price_list_rate": 4800.00
+    },
+    {
+        "doctype": "Item Price",
+        "price_list": "Standard Selling",
+        "item_code": "FG-PIPE-SKID",
+        "currency": "USD",
+        "price_list_rate": 2350.00
+    },
+    {
+        "doctype": "Item Price",
+        "price_list": "Standard Selling",
+        "item_code": "FG-MACHINE-BASE",
+        "currency": "USD",
+        "price_list_rate": 3850.00
+    },
+    {
+        "doctype": "Item Price",
+        "price_list": "Standard Selling",
+        "item_code": "FG-STAIRCASE",
+        "currency": "USD",
+        "price_list_rate": 1950.00
+    },
+    {
+        "doctype": "Item Price",
+        "price_list": "Standard Selling",
+        "item_code": "SRV-FABRICATION",
+        "currency": "USD",
+        "price_list_rate": 95.00
+    },
+    {
+        "doctype": "Item Price",
+        "price_list": "Standard Selling",
+        "item_code": "SRV-INSTALLATION",
+        "currency": "USD",
+        "price_list_rate": 110.00
+    }
+]

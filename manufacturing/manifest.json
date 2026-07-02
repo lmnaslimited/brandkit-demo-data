@@ -12,16 +12,62 @@
             "doctype": "Warehouse"
         },
         {
+            "file": "supplier_group.json",
+            "doctype": "Supplier Group"
+        },
+        {
             "file": "supplier.json",
             "doctype": "Supplier"
+        },
+        {
+            "file": "supplier_contact.json",
+            "doctype": "Contact"
+        },
+        {
+            "file": "supplier_address.json",
+            "doctype": "Address"
+        },
+        {
+            "file": "customer_group.json",
+            "doctype": "Customer Group"
         },
         {
             "file": "customer.json",
             "doctype": "Customer"
         },
         {
+            "file": "customer_contact.json",
+            "doctype": "Contact"
+        },
+        {
+            "file": "customer_address.json",
+            "doctype": "Address"
+        },
+        {
+            "file": "item_group.json",
+            "doctype": "Item Group"
+        },
+        {
             "file": "item.json",
             "doctype": "Item"
+        },
+        {
+            "file": "item_price.json",
+            "doctype": "Item Price"
+        },
+        {
+            "file": "opening_stock.json",
+            "doctype": "Stock Entry",
+            "submit": true
+        },
+        {
+            "file": "workstation.json",
+            "doctype": "Workstation"
+        },
+        {
+            "file": "bom.json",
+            "doctype": "BOM",
+            "submit": true
         }
     ],
 
@@ -32,9 +78,59 @@
             "submit": true
         },
         {
+            "file": "purchase_receipt.json",
+            "doctype": "Purchase Receipt",
+            "submit": true
+        },
+        {
+            "file": "purchase_invoice.json",
+            "doctype": "Purchase Invoice",
+            "submit": true
+        },
+        {
+            "file": "material_request.json",
+            "doctype": "Material Request",
+            "submit": true
+        },
+        {
+            "file": "work_order.json",
+            "doctype": "Work Order",
+            "submit": true
+        },
+        {
+            "file": "material_transfer.json",
+            "doctype": "Stock Entry",
+            "submit": true
+        },
+        {
+            "file": "manufacture.json",
+            "doctype": "Stock Entry",
+            "submit": true
+        },
+        {
+            "file": "quotation.json",
+            "doctype": "Quotation",
+            "submit": true
+        },
+        {
             "file": "sales_order.json",
             "doctype": "Sales Order",
-            "submit": false
+            "submit": true
+        },
+        {
+            "file": "delivery_note.json",
+            "doctype": "Delivery Note",
+            "submit": true
+        },
+        {
+            "file": "sales_invoice.json",
+            "doctype": "Sales Invoice",
+            "submit": true
+        },
+        {
+            "file": "payment_entry.json",
+            "doctype": "Payment Entry",
+            "submit": true
         }
     ]
 }

@@ -1,0 +1,38 @@
+[
+    {
+        "doctype": "Work Order",
+        "production_item": "FG-STEEL-FRAME",
+        "bom_no": "BOM-FG-STEEL-FRAME-001",
+        "qty": 5,
+        "company": "Steel Fabrication Inc.",
+        "fg_warehouse": "Finished Goods - SFI",
+        "wip_warehouse": "Work In Progress - SFI",
+        "source_warehouse": "Raw Materials - SFI",
+        "planned_start_date": "2026-01-25",
+        "material_request": "MAT-REQ-00001"
+    },
+    {
+        "doctype": "Work Order",
+        "production_item": "FG-MACHINE-BASE",
+        "bom_no": "BOM-FG-MACHINE-BASE-001",
+        "qty": 4,
+        "company": "Steel Fabrication Inc.",
+        "fg_warehouse": "Finished Goods - SFI",
+        "wip_warehouse": "Work In Progress - SFI",
+        "source_warehouse": "Raw Materials - SFI",
+        "planned_start_date": "2026-01-26",
+        "material_request": "MAT-REQ-00002"
+    },
+    {
+        "doctype": "Work Order",
+        "production_item": "FG-PIPE-SKID",
+        "bom_no": "BOM-FG-PIPE-SKID-001",
+        "qty": 3,
+        "company": "Steel Fabrication Inc.",
+        "fg_warehouse": "Finished Goods - SFI",
+        "wip_warehouse": "Work In Progress - SFI",
+        "source_warehouse": "Raw Materials - SFI",
+        "planned_start_date": "2026-01-27",
+        "material_request": "MAT-REQ-00003"
+    }
+]

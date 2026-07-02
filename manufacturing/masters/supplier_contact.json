@@ -1,0 +1,194 @@
+[
+    {
+        "doctype": "Contact",
+        "first_name": "Michael",
+        "last_name": "Turner",
+        "designation": "Sales Manager",
+        "email_ids": [
+            {
+                "email_id": "michael.turner@nationalsteelsupply.com",
+                "is_primary": 1
+            }
+        ],
+        "phone_nos": [
+            {
+                "phone": "+1-713-555-1001",
+                "is_primary_phone": 1
+            }
+        ],
+        "links": [
+            {
+                "link_doctype": "Supplier",
+                "link_name": "National Steel Supply"
+            }
+        ]
+    },
+    {
+        "doctype": "Contact",
+        "first_name": "Jennifer",
+        "last_name": "Moore",
+        "designation": "Account Manager",
+        "email_ids": [
+            {
+                "email_id": "jennifer.moore@primemetals.com",
+                "is_primary": 1
+            }
+        ],
+        "phone_nos": [
+            {
+                "phone": "+1-713-555-1002",
+                "is_primary_phone": 1
+            }
+        ],
+        "links": [
+            {
+                "link_doctype": "Supplier",
+                "link_name": "Prime Metals Inc."
+            }
+        ]
+    },
+    {
+        "doctype": "Contact",
+        "first_name": "David",
+        "last_name": "Harris",
+        "designation": "Sales Executive",
+        "email_ids": [
+            {
+                "email_id": "david.harris@industrialwelding.com",
+                "is_primary": 1
+            }
+        ],
+        "phone_nos": [
+            {
+                "phone": "+1-817-555-2001",
+                "is_primary_phone": 1
+            }
+        ],
+        "links": [
+            {
+                "link_doctype": "Supplier",
+                "link_name": "Industrial Welding Supply"
+            }
+        ]
+    },
+    {
+        "doctype": "Contact",
+        "first_name": "Sarah",
+        "last_name": "Johnson",
+        "designation": "Sales Representative",
+        "email_ids": [
+            {
+                "email_id": "sarah.johnson@precisionfasteners.com",
+                "is_primary": 1
+            }
+        ],
+        "phone_nos": [
+            {
+                "phone": "+1-469-555-3001",
+                "is_primary_phone": 1
+            }
+        ],
+        "links": [
+            {
+                "link_doctype": "Supplier",
+                "link_name": "Precision Fasteners LLC"
+            }
+        ]
+    },
+    {
+        "doctype": "Contact",
+        "first_name": "Emily",
+        "last_name": "Clark",
+        "designation": "Sales Manager",
+        "email_ids": [
+            {
+                "email_id": "emily.clark@propaintcoatings.com",
+                "is_primary": 1
+            }
+        ],
+        "phone_nos": [
+            {
+                "phone": "+1-972-555-4001",
+                "is_primary_phone": 1
+            }
+        ],
+        "links": [
+            {
+                "link_doctype": "Supplier",
+                "link_name": "ProPaint Coatings"
+            }
+        ]
+    },
+    {
+        "doctype": "Contact",
+        "first_name": "Kevin",
+        "last_name": "Walker",
+        "designation": "Sales Executive",
+        "email_ids": [
+            {
+                "email_id": "kevin.walker@hydrogas.com",
+                "is_primary": 1
+            }
+        ],
+        "phone_nos": [
+            {
+                "phone": "+1-214-555-5001",
+                "is_primary_phone": 1
+            }
+        ],
+        "links": [
+            {
+                "link_doctype": "Supplier",
+                "link_name": "Hydro Gas Suppliers"
+            }
+        ]
+    },
+    {
+        "doctype": "Contact",
+        "first_name": "Robert",
+        "last_name": "Miller",
+        "designation": "Regional Sales Manager",
+        "email_ids": [
+            {
+                "email_id": "robert.miller@machinetech.com",
+                "is_primary": 1
+            }
+        ],
+        "phone_nos": [
+            {
+                "phone": "+1-817-555-6001",
+                "is_primary_phone": 1
+            }
+        ],
+        "links": [
+            {
+                "link_doctype": "Supplier",
+                "link_name": "MachineTech Equipment"
+            }
+        ]
+    },
+    {
+        "doctype": "Contact",
+        "first_name": "Christopher",
+        "last_name": "Adams",
+        "designation": "Service Coordinator",
+        "email_ids": [
+            {
+                "email_id": "christopher.adams@industrialmaintenance.com",
+                "is_primary": 1
+            }
+        ],
+        "phone_nos": [
+            {
+                "phone": "+1-469-555-7001",
+                "is_primary_phone": 1
+            }
+        ],
+        "links": [
+            {
+                "link_doctype": "Supplier",
+                "link_name": "Industrial Maintenance Services"
+            }
+        ]
+    }
+]

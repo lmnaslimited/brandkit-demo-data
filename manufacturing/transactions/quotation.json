@@ -1,13 +1,13 @@
 [
     {
-        "doctype": "Sales Order",
-        "customer": "Skyline Construction Ltd.",
-        "transaction_date": "2026-02-01",
-        "delivery_date": "2026-02-08",
+        "doctype": "Quotation",
+        "quotation_to": "Customer",
+        "party_name": "Skyline Construction Ltd.",
+        "transaction_date": "2026-01-28",
+        "valid_till": "2026-02-27",
         "company": "Steel Fabrication Inc.",
         "currency": "USD",
         "selling_price_list": "Standard Selling",
-        "set_warehouse": "Finished Goods - SFI",
         "items": [
             {
                 "item_code": "FG-STEEL-FRAME",
@@ -19,14 +19,14 @@
         ]
     },
     {
-        "doctype": "Sales Order",
-        "customer": "Atlas Infrastructure Corp.",
-        "transaction_date": "2026-02-02",
-        "delivery_date": "2026-02-09",
+        "doctype": "Quotation",
+        "quotation_to": "Customer",
+        "party_name": "Atlas Infrastructure Corp.",
+        "transaction_date": "2026-01-28",
+        "valid_till": "2026-02-27",
         "company": "Steel Fabrication Inc.",
         "currency": "USD",
         "selling_price_list": "Standard Selling",
-        "set_warehouse": "Finished Goods - SFI",
         "items": [
             {
                 "item_code": "FG-PIPE-SKID",
@@ -38,14 +38,14 @@
         ]
     },
     {
-        "doctype": "Sales Order",
-        "customer": "Precision Equipment Manufacturing",
-        "transaction_date": "2026-02-03",
-        "delivery_date": "2026-02-10",
+        "doctype": "Quotation",
+        "quotation_to": "Customer",
+        "party_name": "Precision Equipment Manufacturing",
+        "transaction_date": "2026-01-29",
+        "valid_till": "2026-02-28",
         "company": "Steel Fabrication Inc.",
         "currency": "USD",
         "selling_price_list": "Standard Selling",
-        "set_warehouse": "Finished Goods - SFI",
         "items": [
             {
                 "item_code": "FG-MACHINE-BASE",
@@ -57,14 +57,14 @@
         ]
     },
     {
-        "doctype": "Sales Order",
-        "customer": "United Heavy Industries",
-        "transaction_date": "2026-02-04",
-        "delivery_date": "2026-02-11",
+        "doctype": "Quotation",
+        "quotation_to": "Customer",
+        "party_name": "United Heavy Industries",
+        "transaction_date": "2026-01-30",
+        "valid_till": "2026-03-01",
         "company": "Steel Fabrication Inc.",
         "currency": "USD",
         "selling_price_list": "Standard Selling",
-        "set_warehouse": "Finished Goods - SFI",
         "items": [
             {
                 "item_code": "FG-STEEL-FRAME",
