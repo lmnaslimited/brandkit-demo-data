@@ -13,7 +13,7 @@
                 "qty": 5000,
                 "uom": "Kg",
                 "schedule_date": "2026-01-10",
-                "warehouse": "Raw Materials Warehouse - SCF",
+                "warehouse": "Raw Material Warehouse - SCF",
                 "rate": 1.20
             },
             {
@@ -21,7 +21,7 @@
                 "qty": 3000,
                 "uom": "Kg",
                 "schedule_date": "2026-01-10",
-                "warehouse": "Raw Materials Warehouse - SCF",
+                "warehouse": "Raw Material Warehouse - SCF",
                 "rate": 1.85
             },
             {
@@ -29,7 +29,7 @@
                 "qty": 200,
                 "uom": "Meter",
                 "schedule_date": "2026-01-10",
-                "warehouse": "Raw Materials Warehouse - SCF",
+                "warehouse": "Raw Material Warehouse - SCF",
                 "rate": 42.00
             }
         ]
@@ -48,7 +48,7 @@
                 "qty": 300,
                 "uom": "Meter",
                 "schedule_date": "2026-01-12",
-                "warehouse": "Raw Materials Warehouse - SCF",
+                "warehouse": "Raw Material Warehouse - SCF",
                 "rate": 26.50
             },
             {
@@ -56,7 +56,7 @@
                 "qty": 500,
                 "uom": "Meter",
                 "schedule_date": "2026-01-12",
-                "warehouse": "Raw Materials Warehouse - SCF",
+                "warehouse": "Raw Material Warehouse - SCF",
                 "rate": 14.75
             },
             {
@@ -64,7 +64,7 @@
                 "qty": 300,
                 "uom": "Meter",
                 "schedule_date": "2026-01-12",
-                "warehouse": "Raw Materials Warehouse - SCF",
+                "warehouse": "Raw Material Warehouse - SCF",
                 "rate": 31.00
             }
         ]
@@ -83,7 +83,7 @@
                 "qty": 250,
                 "uom": "Kg",
                 "schedule_date": "2026-01-13",
-                "warehouse": "Raw Materials Warehouse - SCF",
+                "warehouse": "Raw Material Warehouse - SCF",
                 "rate": 6.80
             },
             {
@@ -91,7 +91,7 @@
                 "qty": 200,
                 "uom": "Kg",
                 "schedule_date": "2026-01-13",
-                "warehouse": "Raw Materials Warehouse - SCF",
+                "warehouse": "Raw Material Warehouse - SCF",
                 "rate": 8.40
             }
         ]
@@ -110,7 +110,7 @@
                 "qty": 10000,
                 "uom": "Nos",
                 "schedule_date": "2026-01-14",
-                "warehouse": "Raw Materials Warehouse - SCF",
+                "warehouse": "Raw Material Warehouse - SCF",
                 "rate": 0.75
             },
             {
@@ -118,7 +118,7 @@
                 "qty": 10000,
                 "uom": "Nos",
                 "schedule_date": "2026-01-14",
-                "warehouse": "Raw Materials Warehouse - SCF",
+                "warehouse": "Raw Material Warehouse - SCF",
                 "rate": 0.30
             }
         ]
@@ -137,7 +137,7 @@
                 "qty": 120,
                 "uom": "Litre",
                 "schedule_date": "2026-01-15",
-                "warehouse": "Raw Materials Warehouse - SCF",
+                "warehouse": "Raw Material Warehouse - SCF",
                 "rate": 12.50
             },
             {
@@ -145,7 +145,7 @@
                 "qty": 120,
                 "uom": "Litre",
                 "schedule_date": "2026-01-15",
-                "warehouse": "Raw Materials Warehouse - SCF",
+                "warehouse": "Raw Material Warehouse - SCF",
                 "rate": 16.75
             }
         ]

@@ -68,6 +68,10 @@
             "file": "bom.json",
             "doctype": "BOM",
             "submit": true
+        },
+        {
+            "file": "fiscal_year.json",
+            "doctype": "Fiscal Year"
         }
     ],
 

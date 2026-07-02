@@ -1,0 +1,14 @@
+[
+    {
+        "doctype": "Fiscal Year",
+        "year": "2026",
+        "year_start_date": "2026-01-01",
+        "year_end_date": "2026-12-31",
+        "is_short_year": 0,
+        "companies": [
+            {
+                "company": "SteelCraft Fabricators LLC"
+            }
+        ]
+    }
+]

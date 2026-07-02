@@ -11,7 +11,7 @@
             {
                 "item_code": "RM-PLATE-10MM",
                 "qty": 5000,
-                "warehouse": "Raw Materials Warehouse - SCF",
+                "warehouse": "Raw Material Warehouse - SCF",
                 "rate": 1.20,
                 "purchase_receipt": "PUR-REC-00001",
                 "pr_detail": 1
@@ -19,7 +19,7 @@
             {
                 "item_code": "RM-PLATE-20MM",
                 "qty": 3000,
-                "warehouse": "Raw Materials Warehouse - SCF",
+                "warehouse": "Raw Material Warehouse - SCF",
                 "rate": 1.85,
                 "purchase_receipt": "PUR-REC-00001",
                 "pr_detail": 2
@@ -27,7 +27,7 @@
             {
                 "item_code": "RM-I-BEAM-200",
                 "qty": 200,
-                "warehouse": "Raw Materials Warehouse - SCF",
+                "warehouse": "Raw Material Warehouse - SCF",
                 "rate": 42.00,
                 "purchase_receipt": "PUR-REC-00001",
                 "pr_detail": 3
@@ -46,7 +46,7 @@
             {
                 "item_code": "RM-CHANNEL-150",
                 "qty": 300,
-                "warehouse": "Raw Materials Warehouse - SCF",
+                "warehouse": "Raw Material Warehouse - SCF",
                 "rate": 26.50,
                 "purchase_receipt": "PUR-REC-00002",
                 "pr_detail": 1
@@ -54,7 +54,7 @@
             {
                 "item_code": "RM-ANGLE-75",
                 "qty": 500,
-                "warehouse": "Raw Materials Warehouse - SCF",
+                "warehouse": "Raw Material Warehouse - SCF",
                 "rate": 14.75,
                 "purchase_receipt": "PUR-REC-00002",
                 "pr_detail": 2
@@ -62,7 +62,7 @@
             {
                 "item_code": "RM-PIPE-100",
                 "qty": 300,
-                "warehouse": "Raw Materials Warehouse - SCF",
+                "warehouse": "Raw Material Warehouse - SCF",
                 "rate": 31.00,
                 "purchase_receipt": "PUR-REC-00002",
                 "pr_detail": 3
@@ -81,7 +81,7 @@
             {
                 "item_code": "CON-WELD-7018",
                 "qty": 250,
-                "warehouse": "Raw Materials Warehouse - SCF",
+                "warehouse": "Raw Material Warehouse - SCF",
                 "rate": 6.80,
                 "purchase_receipt": "PUR-REC-00003",
                 "pr_detail": 1
@@ -89,7 +89,7 @@
             {
                 "item_code": "CON-MIG-WIRE",
                 "qty": 200,
-                "warehouse": "Raw Materials Warehouse - SCF",
+                "warehouse": "Raw Material Warehouse - SCF",
                 "rate": 8.40,
                 "purchase_receipt": "PUR-REC-00003",
                 "pr_detail": 2
@@ -108,7 +108,7 @@
             {
                 "item_code": "RM-BOLT-M16",
                 "qty": 10000,
-                "warehouse": "Raw Materials Warehouse - SCF",
+                "warehouse": "Raw Material Warehouse - SCF",
                 "rate": 0.75,
                 "purchase_receipt": "PUR-REC-00004",
                 "pr_detail": 1
@@ -116,7 +116,7 @@
             {
                 "item_code": "RM-NUT-M16",
                 "qty": 10000,
-                "warehouse": "Raw Materials Warehouse - SCF",
+                "warehouse": "Raw Material Warehouse - SCF",
                 "rate": 0.30,
                 "purchase_receipt": "PUR-REC-00004",
                 "pr_detail": 2
@@ -135,7 +135,7 @@
             {
                 "item_code": "CON-PRIMER",
                 "qty": 120,
-                "warehouse": "Raw Materials Warehouse - SCF",
+                "warehouse": "Raw Material Warehouse - SCF",
                 "rate": 12.50,
                 "purchase_receipt": "PUR-REC-00005",
                 "pr_detail": 1
@@ -143,7 +143,7 @@
             {
                 "item_code": "CON-TOPCOAT",
                 "qty": 120,
-                "warehouse": "Raw Materials Warehouse - SCF",
+                "warehouse": "Raw Material Warehouse - SCF",
                 "rate": 16.75,
                 "purchase_receipt": "PUR-REC-00005",
                 "pr_detail": 2
