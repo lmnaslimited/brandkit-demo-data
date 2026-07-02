@@ -98,7 +98,7 @@
         "item_code": "CON-OXYGEN",
         "item_name": "Industrial Oxygen",
         "item_group": "Industrial Gases",
-        "stock_uom": "Cylinder",
+        "stock_uom": "Nos",
         "is_stock_item": 1
     },
     {
