@@ -12,24 +12,21 @@
                 "qty": 5000,
                 "warehouse": "Raw Material Warehouse - SCF",
                 "rate": 1.20,
-                "purchase_order": "PUR-ORD-2026-00001",
-                "purchase_order_item": 1
+                "purchase_order": "PUR-ORD-2026-00001"
             },
             {
                 "item_code": "RM-PLATE-20MM",
                 "qty": 3000,
                 "warehouse": "Raw Material Warehouse - SCF",
                 "rate": 1.85,
-                "purchase_order": "PUR-ORD-2026-00001",
-                "purchase_order_item": 2
+                "purchase_order": "PUR-ORD-2026-00001"
             },
             {
                 "item_code": "RM-I-BEAM-200",
                 "qty": 200,
                 "warehouse": "Raw Material Warehouse - SCF",
                 "rate": 42.00,
-                "purchase_order": "PUR-ORD-2026-00001",
-                "purchase_order_item": 3
+                "purchase_order": "PUR-ORD-2026-00001"
             }
         ]
     },
@@ -46,24 +43,21 @@
                 "qty": 300,
                 "warehouse": "Raw Material Warehouse - SCF",
                 "rate": 26.50,
-                "purchase_order": "PUR-ORD-2026-00002",
-                "purchase_order_item": 1
+                "purchase_order": "PUR-ORD-2026-00002"
             },
             {
                 "item_code": "RM-ANGLE-75",
                 "qty": 500,
                 "warehouse": "Raw Material Warehouse - SCF",
                 "rate": 14.75,
-                "purchase_order": "PUR-ORD-2026-00002",
-                "purchase_order_item": 2
+                "purchase_order": "PUR-ORD-2026-00002"
             },
             {
                 "item_code": "RM-PIPE-100",
                 "qty": 300,
                 "warehouse": "Raw Material Warehouse - SCF",
                 "rate": 31.00,
-                "purchase_order": "PUR-ORD-2026-00002",
-                "purchase_order_item": 3
+                "purchase_order": "PUR-ORD-2026-00002"
             }
         ]
     },
@@ -80,16 +74,14 @@
                 "qty": 250,
                 "warehouse": "Raw Material Warehouse - SCF",
                 "rate": 6.80,
-                "purchase_order": "PUR-ORD-2026-00003",
-                "purchase_order_item": 1
+                "purchase_order": "PUR-ORD-2026-00003"
             },
             {
                 "item_code": "CON-MIG-WIRE",
                 "qty": 200,
                 "warehouse": "Raw Material Warehouse - SCF",
                 "rate": 8.40,
-                "purchase_order": "PUR-ORD-2026-00003",
-                "purchase_order_item": 2
+                "purchase_order": "PUR-ORD-2026-00003"
             }
         ]
     },
@@ -106,16 +98,14 @@
                 "qty": 10000,
                 "warehouse": "Raw Material Warehouse - SCF",
                 "rate": 0.75,
-                "purchase_order": "PUR-ORD-2026-00004",
-                "purchase_order_item": 1
+                "purchase_order": "PUR-ORD-2026-00004"
             },
             {
                 "item_code": "RM-NUT-M16",
                 "qty": 10000,
                 "warehouse": "Raw Material Warehouse - SCF",
                 "rate": 0.30,
-                "purchase_order": "PUR-ORD-2026-00004",
-                "purchase_order_item": 2
+                "purchase_order": "PUR-ORD-2026-00004"
             }
         ]
     },
@@ -132,16 +122,14 @@
                 "qty": 120,
                 "warehouse": "Raw Material Warehouse - SCF",
                 "rate": 12.50,
-                "purchase_order": "PUR-ORD-2026-00005",
-                "purchase_order_item": 1
+                "purchase_order": "PUR-ORD-2026-00005"
             },
             {
                 "item_code": "CON-TOPCOAT",
                 "qty": 120,
                 "warehouse": "Raw Material Warehouse - SCF",
                 "rate": 16.75,
-                "purchase_order": "PUR-ORD-2026-00005",
-                "purchase_order_item": 2
+                "purchase_order": "PUR-ORD-2026-00005"
             }
         ]
     }
