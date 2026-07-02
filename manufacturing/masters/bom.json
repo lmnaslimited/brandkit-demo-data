@@ -34,12 +34,12 @@
             {
                 "item_code": "CON-OXYGEN",
                 "qty": 1,
-                "uom": "Cylinder"
+                "uom": "Nos"
             },
             {
                 "item_code": "CON-CO2",
                 "qty": 1,
-                "uom": "Cylinder"
+                "uom": "Nos"
             },
             {
                 "item_code": "CON-PRIMER",
@@ -88,12 +88,12 @@
             {
                 "item_code": "CON-OXYGEN",
                 "qty": 1,
-                "uom": "Cylinder"
+                "uom": "Nos"
             },
             {
                 "item_code": "CON-CO2",
                 "qty": 1,
-                "uom": "Cylinder"
+                "uom": "Nos"
             },
             {
                 "item_code": "CON-PRIMER",

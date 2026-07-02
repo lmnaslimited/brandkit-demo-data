@@ -90,16 +90,16 @@
             {
                 "item_code": "CON-OXYGEN",
                 "qty": 30,
-                "uom": "Cylinder",
-                "stock_uom": "Cylinder",
+                "uom": "Nos",
+                "stock_uom": "Nos",
                 "basic_rate": 65.00,
                 "t_warehouse": "Raw Materials - SFI"
             },
             {
                 "item_code": "CON-CO2",
                 "qty": 30,
-                "uom": "Cylinder",
-                "stock_uom": "Cylinder",
+                "uom": "Nos",
+                "stock_uom": "Nos",
                 "basic_rate": 58.00,
                 "t_warehouse": "Raw Materials - SFI"
             },
