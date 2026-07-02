@@ -13,8 +13,7 @@
                 "qty": 2,
                 "uom": "Nos",
                 "warehouse": "Finished Goods Warehouse - SCF",
-                "rate": 950.00,
-                "against_sales_order": "SAL-ORD-2026-00001"
+                "rate": 950.00
             }
         ]
     },
@@ -32,8 +31,7 @@
                 "qty": 1,
                 "uom": "Nos",
                 "warehouse": "Finished Goods Warehouse - SCF",
-                "rate": 1400.00,
-                "against_sales_order": "SAL-ORD-2026-00002"
+                "rate": 1400.00
             }
         ]
     },
@@ -51,8 +49,7 @@
                 "qty": 2,
                 "uom": "Nos",
                 "warehouse": "Finished Goods Warehouse - SCF",
-                "rate": 1800.00,
-                "against_sales_order": "SAL-ORD-2026-00003"
+                "rate": 1800.00
             }
         ]
     },
@@ -70,16 +67,14 @@
                 "qty": 1,
                 "uom": "Nos",
                 "warehouse": "Finished Goods Warehouse - SCF",
-                "rate": 950.00,
-                "against_sales_order": "SAL-ORD-2026-00004"
+                "rate": 950.00
             },
             {
                 "item_code": "FG-MACHINE-BASE",
                 "qty": 1,
                 "uom": "Nos",
                 "warehouse": "Finished Goods Warehouse - SCF",
-                "rate": 1800.00,
-                "against_sales_order": "SAL-ORD-2026-00004"
+                "rate": 1800.00
             }
         ]
     }
