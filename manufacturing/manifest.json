@@ -84,12 +84,14 @@
         {
             "file": "purchase_receipt.json",
             "doctype": "Purchase Receipt",
-            "submit": true
+            "submit": true,
+            "create_from": "Purchase Order"
         },
         {
             "file": "purchase_invoice.json",
             "doctype": "Purchase Invoice",
-            "submit": true
+            "submit": true,
+            "create_from": "Purchase Receipt"
         },
         {
             "file": "material_request.json",
@@ -104,12 +106,14 @@
         {
             "file": "material_transfer.json",
             "doctype": "Stock Entry",
-            "submit": true
+            "submit": true,
+            "create_from": "Work Order"
         },
         {
             "file": "manufacture.json",
             "doctype": "Stock Entry",
-            "submit": true
+            "submit": true,
+            "create_from": "Work Order"
         },
         {
             "file": "quotation.json",
@@ -119,22 +123,32 @@
         {
             "file": "sales_order.json",
             "doctype": "Sales Order",
-            "submit": true
+            "submit": true,
+            "create_from": "Quotation"
         },
         {
             "file": "delivery_note.json",
             "doctype": "Delivery Note",
-            "submit": true
+            "submit": true,
+            "create_from": "Sales Order"
         },
         {
             "file": "sales_invoice.json",
             "doctype": "Sales Invoice",
-            "submit": true
+            "submit": true,
+            "create_from": "Delivery Note"
         },
         {
             "file": "payment_entry.json",
             "doctype": "Payment Entry",
-            "submit": true
+            "submit": true,
+            "create_from": "Sales Invoice"
+        },
+        {
+            "file": "payment_entry_pur.json",
+            "doctype": "Payment Entry",
+            "submit": true,
+            "create_from": "Purchase Invoice"
         }
     ]
 }

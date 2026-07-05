@@ -72,5 +72,23 @@
                 "t_warehouse": "Work In Progress Warehouse - SCF"
             }
         ]
+    },
+    {
+        "doctype": "Stock Entry",
+        "stock_entry_type": "Material Transfer for Manufacture",
+        "company": "SteelCraft Fabricators LLC",
+        "posting_date": "2026-01-25",
+        "work_order": "MFG-WO-2026-00002",
+        "from_bom": 1,
+        "fg_completed_qty": 4
+    },
+    {
+        "doctype": "Stock Entry",
+        "stock_entry_type": "Material Transfer for Manufacture",
+        "company": "SteelCraft Fabricators LLC",
+        "posting_date": "2026-01-25",
+        "work_order": "MFG-WO-2026-00003",
+        "from_bom": 1,
+        "fg_completed_qty": 3
     }
 ]

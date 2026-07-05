@@ -1,90 +1,46 @@
 [
     {
         "doctype": "Sales Order",
+        "quotation": "SAL-QTN-2026-00001",
         "customer": "Skyline Construction Ltd.",
         "transaction_date": "2026-02-01",
         "delivery_date": "2026-02-08",
         "company": "SteelCraft Fabricators LLC",
         "currency": "USD",
         "selling_price_list": "Standard Selling",
-        "set_warehouse": "Finished Goods Warehouse - SCF",
-        "items": [
-            {
-                "item_code": "FG-STEEL-FRAME",
-                "qty": 2,
-                "uom": "Nos",
-                "warehouse": "Finished Goods Warehouse - SCF",
-                "quotation": "SAL-QTN-2026-00001",
-                "rate": 950.00
-            }
-        ]
+        "set_warehouse": "Finished Goods Warehouse - SCF"
     },
     {
         "doctype": "Sales Order",
+        "quotation": "SAL-QTN-2026-00002",
         "customer": "Atlas Infrastructure Corp.",
         "transaction_date": "2026-02-02",
         "delivery_date": "2026-02-09",
         "company": "SteelCraft Fabricators LLC",
         "currency": "USD",
         "selling_price_list": "Standard Selling",
-        "set_warehouse": "Finished Goods Warehouse - SCF",
-        "items": [
-            {
-                "item_code": "FG-PIPE-SKID",
-                "qty": 1,
-                "uom": "Nos",
-                "warehouse": "Finished Goods Warehouse - SCF",
-                "quotation": "SAL-QTN-2026-00002",
-                "rate": 1400.00
-            }
-        ]
+        "set_warehouse": "Finished Goods Warehouse - SCF"
     },
     {
         "doctype": "Sales Order",
+        "quotation": "SAL-QTN-2026-00003",
         "customer": "Precision Equipment Manufacturing",
         "transaction_date": "2026-02-03",
         "delivery_date": "2026-02-10",
         "company": "SteelCraft Fabricators LLC",
         "currency": "USD",
         "selling_price_list": "Standard Selling",
-        "set_warehouse": "Finished Goods Warehouse - SCF",
-        "items": [
-            {
-                "item_code": "FG-MACHINE-BASE",
-                "qty": 2,
-                "uom": "Nos",
-                "warehouse": "Finished Goods Warehouse - SCF",
-                "quotation": "SAL-QTN-2026-00003",
-                "rate": 1800.00
-            }
-        ]
+        "set_warehouse": "Finished Goods Warehouse - SCF"
     },
     {
         "doctype": "Sales Order",
+        "quotation": "SAL-QTN-2026-00004",
         "customer": "United Heavy Industries",
         "transaction_date": "2026-02-04",
         "delivery_date": "2026-02-11",
         "company": "SteelCraft Fabricators LLC",
         "currency": "USD",
         "selling_price_list": "Standard Selling",
-        "set_warehouse": "Finished Goods Warehouse - SCF",
-        "items": [
-            {
-                "item_code": "FG-STEEL-FRAME",
-                "qty": 1,
-                "uom": "Nos",
-                "warehouse": "Finished Goods Warehouse - SCF",
-                "quotation": "SAL-QTN-2026-00004",
-                "rate": 950.00
-            },
-            {
-                "item_code": "FG-MACHINE-BASE",
-                "qty": 1,
-                "uom": "Nos",
-                "warehouse": "Finished Goods Warehouse - SCF",
-                "quotation": "SAL-QTN-2026-00004",
-                "rate": 1800.00
-            }
-        ]
+        "set_warehouse": "Finished Goods Warehouse - SCF"
     }
 ]

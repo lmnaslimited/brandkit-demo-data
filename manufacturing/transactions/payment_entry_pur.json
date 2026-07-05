@@ -1,0 +1,32 @@
+[
+    {
+        "doctype": "Payment Entry",
+        "purchase_invoice": "ACC-PINV-2026-00001",
+        "payment_type": "Pay",
+        "posting_date": "2026-01-12"
+    },
+    {
+        "doctype": "Payment Entry",
+        "purchase_invoice": "ACC-PINV-2026-00002",
+        "payment_type": "Pay",
+        "posting_date": "2026-01-14"
+    },
+    {
+        "doctype": "Payment Entry",
+        "purchase_invoice": "ACC-PINV-2026-00003",
+        "payment_type": "Pay",
+        "posting_date": "2026-01-15"
+    },
+    {
+        "doctype": "Payment Entry",
+        "purchase_invoice": "ACC-PINV-2026-00004",
+        "payment_type": "Pay",
+        "posting_date": "2026-01-16"
+    },
+    {
+        "doctype": "Payment Entry",
+        "purchase_invoice": "ACC-PINV-2026-00005",
+        "payment_type": "Pay",
+        "posting_date": "2026-01-17"
+    }
+]

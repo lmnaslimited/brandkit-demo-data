@@ -1,20 +1,42 @@
 [
     {
         "doctype": "Delivery Note",
+        "sales_order": "SAL-ORD-2026-00001",
         "customer": "Skyline Construction Ltd.",
         "posting_date": "2026-02-08",
         "posting_time": "10:00:00",
         "company": "SteelCraft Fabricators LLC",
         "currency": "USD",
-        "set_warehouse": "Finished Goods Warehouse - SCF",
-        "items": [
-            {
-                "item_code": "FG-STEEL-FRAME",
-                "qty": 2,
-                "uom": "Nos",
-                "warehouse": "Finished Goods Warehouse - SCF",
-                "rate": 950.00
-            }
-        ]
+        "set_warehouse": "Finished Goods Warehouse - SCF"
+    },
+    {
+        "doctype": "Delivery Note",
+        "sales_order": "SAL-ORD-2026-00002",
+        "customer": "Atlas Infrastructure Corp.",
+        "posting_date": "2026-02-09",
+        "posting_time": "10:00:00",
+        "company": "SteelCraft Fabricators LLC",
+        "currency": "USD",
+        "set_warehouse": "Finished Goods Warehouse - SCF"
+    },
+    {
+        "doctype": "Delivery Note",
+        "sales_order": "SAL-ORD-2026-00003",
+        "customer": "Precision Equipment Manufacturing",
+        "posting_date": "2026-02-10",
+        "posting_time": "10:00:00",
+        "company": "SteelCraft Fabricators LLC",
+        "currency": "USD",
+        "set_warehouse": "Finished Goods Warehouse - SCF"
+    },
+    {
+        "doctype": "Delivery Note",
+        "sales_order": "SAL-ORD-2026-00004",
+        "customer": "United Heavy Industries",
+        "posting_date": "2026-02-11",
+        "posting_time": "10:00:00",
+        "company": "SteelCraft Fabricators LLC",
+        "currency": "USD",
+        "set_warehouse": "Finished Goods Warehouse - SCF"
     }
 ]

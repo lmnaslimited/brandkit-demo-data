@@ -1,23 +1,26 @@
 [
     {
         "doctype": "Payment Entry",
+        "sales_invoice": "ACC-SINV-2026-00001",
         "payment_type": "Receive",
-        "party_type": "Customer",
-        "party": "Skyline Construction Ltd.",
-        "company": "SteelCraft Fabricators LLC",
-        "posting_date": "2026-02-10",
-        "paid_from": "1310 - Debtors - SCF",
-        "paid_to": "1110 - Cash - SCF",
-        "paid_amount": 1900.00,
-        "received_amount": 1900.00,
-        "source_exchange_rate": 1,
-        "target_exchange_rate": 1,
-        "references": [
-            {
-                "reference_doctype": "Sales Invoice",
-                "reference_name": "ACC-SINV-2026-00001",
-                "allocated_amount": 1900.00
-            }
-        ]
+        "posting_date": "2026-02-10"
+    },
+    {
+        "doctype": "Payment Entry",
+        "sales_invoice": "ACC-SINV-2026-00002",
+        "payment_type": "Receive",
+        "posting_date": "2026-02-11"
+    },
+    {
+        "doctype": "Payment Entry",
+        "sales_invoice": "ACC-SINV-2026-00003",
+        "payment_type": "Receive",
+        "posting_date": "2026-02-12"
+    },
+    {
+        "doctype": "Payment Entry",
+        "sales_invoice": "ACC-SINV-2026-00004",
+        "payment_type": "Receive",
+        "posting_date": "2026-02-13"
     }
 ]
