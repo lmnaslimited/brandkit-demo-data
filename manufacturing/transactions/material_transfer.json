@@ -6,72 +6,7 @@
         "posting_date": "2026-01-25",
         "work_order": "MFG-WO-2026-00001",
         "from_bom": 1,
-        "fg_completed_qty": 5,
-        "items": [
-            {
-                "item_code": "RM-I-BEAM-200",
-                "qty": 90,
-                "uom": "Meter",
-                "s_warehouse": "Raw Material Warehouse - SCF",
-                "t_warehouse": "Work In Progress Warehouse - SCF"
-            },
-            {
-                "item_code": "RM-PLATE-20MM",
-                "qty": 1750,
-                "uom": "Kg",
-                "s_warehouse": "Raw Material Warehouse - SCF",
-                "t_warehouse": "Work In Progress Warehouse - SCF"
-            },
-            {
-                "item_code": "RM-BOLT-M16",
-                "qty": 320,
-                "uom": "Nos",
-                "s_warehouse": "Raw Material Warehouse - SCF",
-                "t_warehouse": "Work In Progress Warehouse - SCF"
-            },
-            {
-                "item_code": "RM-NUT-M16",
-                "qty": 320,
-                "uom": "Nos",
-                "s_warehouse": "Raw Material Warehouse - SCF",
-                "t_warehouse": "Work In Progress Warehouse - SCF"
-            },
-            {
-                "item_code": "CON-WELD-7018",
-                "qty": 60,
-                "uom": "Kg",
-                "s_warehouse": "Raw Material Warehouse - SCF",
-                "t_warehouse": "Work In Progress Warehouse - SCF"
-            },
-            {
-                "item_code": "CON-OXYGEN",
-                "qty": 5,
-                "uom": "Nos",
-                "s_warehouse": "Raw Material Warehouse - SCF",
-                "t_warehouse": "Work In Progress Warehouse - SCF"
-            },
-            {
-                "item_code": "CON-CO2",
-                "qty": 5,
-                "uom": "Nos",
-                "s_warehouse": "Raw Material Warehouse - SCF",
-                "t_warehouse": "Work In Progress Warehouse - SCF"
-            },
-            {
-                "item_code": "CON-PRIMER",
-                "qty": 40,
-                "uom": "Litre",
-                "s_warehouse": "Raw Material Warehouse - SCF",
-                "t_warehouse": "Work In Progress Warehouse - SCF"
-            },
-            {
-                "item_code": "CON-TOPCOAT",
-                "qty": 40,
-                "uom": "Litre",
-                "s_warehouse": "Raw Material Warehouse - SCF",
-                "t_warehouse": "Work In Progress Warehouse - SCF"
-            }
-        ]
+        "fg_completed_qty": 5
     },
     {
         "doctype": "Stock Entry",
