@@ -2,25 +2,21 @@
     {
         "doctype": "Payment Entry",
         "sales_invoice": "ACC-SINV-2026-00001",
-        "payment_type": "Receive",
-        "posting_date": "2026-02-10"
+        "payment_type": "Receive"
     },
     {
         "doctype": "Payment Entry",
         "sales_invoice": "ACC-SINV-2026-00002",
-        "payment_type": "Receive",
-        "posting_date": "2026-02-11"
+        "payment_type": "Receive"
     },
     {
         "doctype": "Payment Entry",
         "sales_invoice": "ACC-SINV-2026-00003",
-        "payment_type": "Receive",
-        "posting_date": "2026-02-12"
+        "payment_type": "Receive"
     },
     {
         "doctype": "Payment Entry",
         "sales_invoice": "ACC-SINV-2026-00004",
-        "payment_type": "Receive",
-        "posting_date": "2026-02-13"
+        "payment_type": "Receive"
     }
 ]
